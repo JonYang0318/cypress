@@ -1,0 +1,81 @@
+{
+  "uid" : "a8397ba00acf2d03",
+  "name" : "更改寬鬆/一般註冊",
+  "fullName" : "app_test#test_update_setting",
+  "historyId" : "34f084b33a33c821c8ee6be62ba4c312",
+  "time" : {
+    "start" : 1670120841858,
+    "stop" : 1670120841875,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_module_fixture_app_test",
+    "time" : {
+      "start" : 1670120824404,
+      "stop" : 1670120841852,
+      "duration" : 17448
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_module_fixture_app_test::0",
+    "time" : {
+      "start" : 1670120871060,
+      "stop" : 1670120871060,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "suite",
+    "value" : "app_test"
+  }, {
+    "name" : "host",
+    "value" : "C010700042"
+  }, {
+    "name" : "thread",
+    "value" : "26452-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "app_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "a8397ba00acf2d03.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "total" : 11,
+  "items" : [ {
+    "uid" : "7657e85a20beccf848a12f82ea87eb61",
+    "name" : "DletMember",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "86de90e12bd3d487b6c599665c866239",
+    "name" : "DleAco",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "278f65b57ae88d24853cacf32772709f",
+    "name" : "Dlepro",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "413d271c260787f51dd8680190483bad",
+    "name" : "DleTE",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

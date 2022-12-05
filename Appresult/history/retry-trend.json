@@ -1,0 +1,121 @@
+[ {
+  "buildOrder" : 15,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 140
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 130
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 120
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 110
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 100
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 90
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 79
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 68
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 57
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 46
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 35
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 25
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 14
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 3
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 10,
+    "retry" : 0
+  }
+} ]

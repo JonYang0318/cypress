@@ -1,0 +1,380 @@
+{
+  "uid" : "206530d1e7605848",
+  "name" : "test_messgaeConfirm",
+  "fullName" : "app_test#test_messgaeConfirm",
+  "historyId" : "78224a21fa4826a7a2df75e93a1eb4bd",
+  "time" : {
+    "start" : 1670207271825,
+    "stop" : 1670207286037,
+    "duration" : 14212
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_module_fixture_app_test",
+    "time" : {
+      "start" : 1670207225153,
+      "stop" : 1670207246883,
+      "duration" : 21730
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e24b639e13dfca9a",
+      "name" : "輸入電話號碼",
+      "source" : "e24b639e13dfca9a.png",
+      "type" : "image/png",
+      "size" : 177916
+    }, {
+      "uid" : "8f721dceb0345a44",
+      "name" : "stdout",
+      "source" : "8f721dceb0345a44.txt",
+      "type" : "text/plain",
+      "size" : 53
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_module_fixture_app_test::0",
+    "time" : {
+      "start" : 1670207301056,
+      "stop" : 1670207301056,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=5)"
+  }, {
+    "name" : "suite",
+    "value" : "app_test"
+  }, {
+    "name" : "host",
+    "value" : "C010700042"
+  }, {
+    "name" : "thread",
+    "value" : "26124-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "app_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a8ffbad466f14920",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1670120866193,
+        "stop" : 1670120870617,
+        "duration" : 4424
+      }
+    }, {
+      "uid" : "f4192ab4cd5e3d3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670084876493,
+        "stop" : 1670084891164,
+        "duration" : 14671
+      }
+    }, {
+      "uid" : "d210a059a8a1af2e",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1670034466713,
+        "stop" : 1670034471202,
+        "duration" : 4489
+      }
+    }, {
+      "uid" : "57c5c7efeb58dfe6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948066326,
+        "stop" : 1669948080768,
+        "duration" : 14442
+      }
+    }, {
+      "uid" : "b6d14b5eeceacea0",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669914407648,
+        "stop" : 1669914411763,
+        "duration" : 4115
+      }
+    }, {
+      "uid" : "e216faa36fbcdce4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861668964,
+        "stop" : 1669861683343,
+        "duration" : 14379
+      }
+    }, {
+      "uid" : "351cf24e4855649f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780509476,
+        "stop" : 1669780523684,
+        "duration" : 14208
+      }
+    }, {
+      "uid" : "e2d06f718ea7ad42",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669780390686,
+        "stop" : 1669780394755,
+        "duration" : 4069
+      }
+    }, {
+      "uid" : "1a927fe492cdeab4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775267979,
+        "stop" : 1669775281909,
+        "duration" : 13930
+      }
+    }, {
+      "uid" : "88b3712c92932a8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713945152,
+        "stop" : 1669713959361,
+        "duration" : 14209
+      }
+    }, {
+      "uid" : "43d7d3e069739811",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713725772,
+        "stop" : 1669713730365,
+        "duration" : 4593
+      }
+    }, {
+      "uid" : "36f16aa02dd5d487",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713660350,
+        "stop" : 1669713664485,
+        "duration" : 4135
+      }
+    }, {
+      "uid" : "f6c89ab0c47f8610",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713596986,
+        "stop" : 1669713601145,
+        "duration" : 4159
+      }
+    }, {
+      "uid" : "ffad3f968ee734df",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713347721,
+        "stop" : 1669713351806,
+        "duration" : 4085
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 9,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 16
+      },
+      "items" : [ {
+        "uid" : "b1f067229eb2cc7f",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/b1f067229eb2cc7f",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+        "time" : {
+          "start" : 1670120866193,
+          "stop" : 1670120870617,
+          "duration" : 4424
+        }
+      }, {
+        "uid" : "1b8f8635e68e091d",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/1b8f8635e68e091d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1670084876493,
+          "stop" : 1670084891164,
+          "duration" : 14671
+        }
+      }, {
+        "uid" : "1aa0fb10b9f0cf55",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/1aa0fb10b9f0cf55",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+        "time" : {
+          "start" : 1670034466713,
+          "stop" : 1670034471202,
+          "duration" : 4489
+        }
+      }, {
+        "uid" : "d42607f4057406cd",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/d42607f4057406cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669948066326,
+          "stop" : 1669948080768,
+          "duration" : 14442
+        }
+      }, {
+        "uid" : "a8cb3c4d1aaac0d1",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/a8cb3c4d1aaac0d1",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+        "time" : {
+          "start" : 1669914407648,
+          "stop" : 1669914411763,
+          "duration" : 4115
+        }
+      }, {
+        "uid" : "aa0956cf954d073d",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/aa0956cf954d073d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669861668964,
+          "stop" : 1669861683343,
+          "duration" : 14379
+        }
+      }, {
+        "uid" : "ab2375ed1ec0f8e2",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/ab2375ed1ec0f8e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669780509476,
+          "stop" : 1669780523684,
+          "duration" : 14208
+        }
+      }, {
+        "uid" : "9bb875ad555b6ef9",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/9bb875ad555b6ef9",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+        "time" : {
+          "start" : 1669780390686,
+          "stop" : 1669780394755,
+          "duration" : 4069
+        }
+      }, {
+        "uid" : "d52de1d1c0567807",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/d52de1d1c0567807",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669775267979,
+          "stop" : 1669775281909,
+          "duration" : 13930
+        }
+      }, {
+        "uid" : "2d98b501e7f91aa",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/2d98b501e7f91aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669713945152,
+          "stop" : 1669713959361,
+          "duration" : 14209
+        }
+      }, {
+        "uid" : "a6d0356aac9e54a6",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/a6d0356aac9e54a6",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+        "time" : {
+          "start" : 1669713725772,
+          "stop" : 1669713730365,
+          "duration" : 4593
+        }
+      }, {
+        "uid" : "904bd4fa653f469d",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/904bd4fa653f469d",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+        "time" : {
+          "start" : 1669713660350,
+          "stop" : 1669713664485,
+          "duration" : 4135
+        }
+      }, {
+        "uid" : "c34103a0d24e168d",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/c34103a0d24e168d",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+        "time" : {
+          "start" : 1669713596986,
+          "stop" : 1669713601145,
+          "duration" : 4159
+        }
+      }, {
+        "uid" : "c9e1de2248e0429d",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/c9e1de2248e0429d",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+        "time" : {
+          "start" : 1669713347721,
+          "stop" : 1669713351806,
+          "duration" : 4085
+        }
+      }, {
+        "uid" : "c1c31b12b6072564",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure/#testresult/c1c31b12b6072564",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+        "time" : {
+          "start" : 1669713347721,
+          "stop" : 1669713351806,
+          "duration" : 4085
+        }
+      } ]
+    },
+    "tags" : [ "run(order=5)" ]
+  },
+  "source" : "206530d1e7605848.json",
+  "parameterValues" : [ ]
+}

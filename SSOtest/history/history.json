@@ -1,0 +1,3268 @@
+{
+  "6496d09075d57f589a2b7dbdf68bf469" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7918503e2047f3ec",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/1/allure/#testresult/7918503e2047f3ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668481874839,
+        "stop" : 1668481914996,
+        "duration" : 40157
+      }
+    } ]
+  },
+  "3cf84b23f408c901d29fc74d160bc483" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 24,
+      "unknown" : 0,
+      "total" : 28
+    },
+    "items" : [ {
+      "uid" : "7316099bd31f4b95",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/7316099bd31f4b95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670119312450,
+        "stop" : 1670119312481,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "fed0ba7bf35a626d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/fed0ba7bf35a626d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670032912277,
+        "stop" : 1670032912308,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "5838deeb52bba3e8",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/5838deeb52bba3e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949374509,
+        "stop" : 1669949374540,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "ae4ca859ff3d9bd4",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/ae4ca859ff3d9bd4",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948278836,
+        "stop" : 1669948278836,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d67c2db28edaf72f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/d67c2db28edaf72f",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948152895,
+        "stop" : 1669948152895,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "efbe4d37d646956a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/efbe4d37d646956a",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669946481759,
+        "stop" : 1669946481759,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "835aac250c164aa9",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/835aac250c164aa9",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669891406420,
+        "stop" : 1669891406420,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e7d97957455e71dc",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/e7d97957455e71dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860121832,
+        "stop" : 1669860137905,
+        "duration" : 16073
+      }
+    }, {
+      "uid" : "68fe42d33a504231",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/68fe42d33a504231",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669779031594,
+        "stop" : 1669779031629,
+        "duration" : 35
+      }
+    }, {
+      "uid" : "a7806e129a47eaeb",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/a7806e129a47eaeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778770932,
+        "stop" : 1669778786999,
+        "duration" : 16067
+      }
+    }, {
+      "uid" : "814f5de2f42964d2",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/814f5de2f42964d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669773709426,
+        "stop" : 1669773709454,
+        "duration" : 28
+      }
+    }, {
+      "uid" : "9510c2c897f25141",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/9510c2c897f25141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687353648,
+        "stop" : 1669687369721,
+        "duration" : 16073
+      }
+    }, {
+      "uid" : "db3bc01ca7dd1acf",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/db3bc01ca7dd1acf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600963680,
+        "stop" : 1669600963715,
+        "duration" : 35
+      }
+    }, {
+      "uid" : "aa8ec692c7f8e36",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/aa8ec692c7f8e36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669514540574,
+        "stop" : 1669514540608,
+        "duration" : 34
+      }
+    }, {
+      "uid" : "d5a3f515fb743aaf",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/d5a3f515fb743aaf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428152444,
+        "stop" : 1669428168690,
+        "duration" : 16246
+      }
+    }, {
+      "uid" : "48aa1d1361ae593f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/48aa1d1361ae593f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669368024985,
+        "stop" : 1669368041244,
+        "duration" : 16259
+      }
+    }, {
+      "uid" : "29d1a9cac7a8fed5",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/29d1a9cac7a8fed5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669168962783,
+        "stop" : 1669168979049,
+        "duration" : 16266
+      }
+    }, {
+      "uid" : "a2c1828010a0993b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/a2c1828010a0993b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669168962783,
+        "stop" : 1669168979049,
+        "duration" : 16266
+      }
+    }, {
+      "uid" : "53832757501f4ba",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/16/allure/#testresult/53832757501f4ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669168962783,
+        "stop" : 1669168979049,
+        "duration" : 16266
+      }
+    }, {
+      "uid" : "3de94202635de495",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/14/allure/#testresult/3de94202635de495",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669104401575,
+        "stop" : 1669104417806,
+        "duration" : 16231
+      }
+    } ]
+  },
+  "300ec1c0085318698d29996c4b9c7f83" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "653aeef575c772b6",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/1/allure/#testresult/653aeef575c772b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668483733619,
+        "stop" : 1668483733757,
+        "duration" : 138
+      }
+    } ]
+  },
+  "84a5c1cea723dd983b31f83cb395a010" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "fafee203922f5ba3",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/14/allure/#testresult/fafee203922f5ba3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669014009898,
+        "stop" : 1669014009905,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "9f70c1c1b43b4bca",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/13/allure/#testresult/9f70c1c1b43b4bca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669014009898,
+        "stop" : 1669014009905,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "d325b4c79c31c6ed",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/12/allure/#testresult/d325b4c79c31c6ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669014009898,
+        "stop" : 1669014009905,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "46cd96c3866f08a4",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/11/allure/#testresult/46cd96c3866f08a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669014009898,
+        "stop" : 1669014009905,
+        "duration" : 7
+      }
+    } ]
+  },
+  "d037322f56cbb7829c170099a69afb42" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 12,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 25
+    },
+    "items" : [ {
+      "uid" : "a10e2fb6ffb6e41f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/a10e2fb6ffb6e41f",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[3]/div/div[2]/div/div[2]/button[2]/span[2]/span\"}\n  (Session info: chrome=108.0.5359.72)\nStacktrace:\nBacktrace:\n\t(No symbol) [0x0105F243]\n\t(No symbol) [0x00FE7FD1]\n\t(No symbol) [0x00EDD04D]\n\t(No symbol) [0x00F0C0B0]\n\t(No symbol) [0x00F0C22B]\n\t(No symbol) [0x00F3E612]\n\t(No symbol) [0x00F285D4]\n\t(No symbol) [0x00F3C9EB]\n\t(No symbol) [0x00F28386]\n\t(No symbol) [0x00F0163C]\n\t(No symbol) [0x00F0269D]\n\tGetHandleVerifier [0x012F9A22+2655074]\n\tGetHandleVerifier [0x012ECA24+2601828]\n\tGetHandleVerifier [0x01108C0A+619850]\n\tGetHandleVerifier [0x01107830+614768]\n\t(No symbol) [0x00FF05FC]\n\t(No symbol) [0x00FF5968]\n\t(No symbol) [0x00FF5A55]\n\t(No symbol) [0x0100051B]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]",
+      "time" : {
+        "start" : 1670119283545,
+        "stop" : 1670119291556,
+        "duration" : 8011
+      }
+    }, {
+      "uid" : "367d4b93d9f9f77b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/367d4b93d9f9f77b",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[3]/div/div[2]/div/div[2]/button[2]/span[2]/span\"}\n  (Session info: chrome=108.0.5359.72)\nStacktrace:\nBacktrace:\n\t(No symbol) [0x0117F243]\n\t(No symbol) [0x01107FD1]\n\t(No symbol) [0x00FFD04D]\n\t(No symbol) [0x0102C0B0]\n\t(No symbol) [0x0102C22B]\n\t(No symbol) [0x0105E612]\n\t(No symbol) [0x010485D4]\n\t(No symbol) [0x0105C9EB]\n\t(No symbol) [0x01048386]\n\t(No symbol) [0x0102163C]\n\t(No symbol) [0x0102269D]\n\tGetHandleVerifier [0x01419A22+2655074]\n\tGetHandleVerifier [0x0140CA24+2601828]\n\tGetHandleVerifier [0x01228C0A+619850]\n\tGetHandleVerifier [0x01227830+614768]\n\t(No symbol) [0x011105FC]\n\t(No symbol) [0x01115968]\n\t(No symbol) [0x01115A55]\n\t(No symbol) [0x0112051B]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]",
+      "time" : {
+        "start" : 1670032883493,
+        "stop" : 1670032891519,
+        "duration" : 8026
+      }
+    }, {
+      "uid" : "c809374c648e850a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/c809374c648e850a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949334746,
+        "stop" : 1669949345157,
+        "duration" : 10411
+      }
+    }, {
+      "uid" : "1eb3d6794175553f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/1eb3d6794175553f",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948270754,
+        "stop" : 1669948278755,
+        "duration" : 8001
+      }
+    }, {
+      "uid" : "3a1c6e609466aa92",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/3a1c6e609466aa92",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948144829,
+        "stop" : 1669948152830,
+        "duration" : 8001
+      }
+    }, {
+      "uid" : "a7b38885a377bb8c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/a7b38885a377bb8c",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669946473690,
+        "stop" : 1669946481690,
+        "duration" : 8000
+      }
+    }, {
+      "uid" : "27eba6aaa2c8b002",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/27eba6aaa2c8b002",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669891398365,
+        "stop" : 1669891406365,
+        "duration" : 8000
+      }
+    }, {
+      "uid" : "a717d78b70bda325",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/a717d78b70bda325",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860082200,
+        "stop" : 1669860092563,
+        "duration" : 10363
+      }
+    }, {
+      "uid" : "2649d62b9595f07b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/2649d62b9595f07b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778991825,
+        "stop" : 1669779002184,
+        "duration" : 10359
+      }
+    }, {
+      "uid" : "201ed00b49888ab7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/201ed00b49888ab7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778731130,
+        "stop" : 1669778741496,
+        "duration" : 10366
+      }
+    }, {
+      "uid" : "16deb1f62fd9a8e",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/16deb1f62fd9a8e",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[3]/div/div[2]/div/div[2]/button[2]/span[2]/span\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669773680919,
+        "stop" : 1669773688934,
+        "duration" : 8015
+      }
+    }, {
+      "uid" : "9d34c23f72335294",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/9d34c23f72335294",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687314433,
+        "stop" : 1669687324822,
+        "duration" : 10389
+      }
+    }, {
+      "uid" : "9191daaef047fd52",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/9191daaef047fd52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600923975,
+        "stop" : 1669600934353,
+        "duration" : 10378
+      }
+    }, {
+      "uid" : "46e7ade6b2fc27fe",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/46e7ade6b2fc27fe",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[3]/div/div[2]/div/div[2]/button[2]/span[2]/span\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669514511821,
+        "stop" : 1669514519866,
+        "duration" : 8045
+      }
+    }, {
+      "uid" : "a83518268cfeaa49",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/a83518268cfeaa49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428112741,
+        "stop" : 1669428123143,
+        "duration" : 10402
+      }
+    }, {
+      "uid" : "18af1c3177981b41",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/18af1c3177981b41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669367985231,
+        "stop" : 1669367995640,
+        "duration" : 10409
+      }
+    }, {
+      "uid" : "7b70af182604ddf",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/7b70af182604ddf",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[3]/div/div[2]/div/div[2]/button[2]/span[2]/span\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669341715592,
+        "stop" : 1669341723631,
+        "duration" : 8039
+      }
+    }, {
+      "uid" : "32cd1755ee2789bf",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/32cd1755ee2789bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669255343959,
+        "stop" : 1669255354384,
+        "duration" : 10425
+      }
+    }, {
+      "uid" : "7e58e3a8fa6dd13",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/16/allure/#testresult/7e58e3a8fa6dd13",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[3]/div/div[2]/div/div[2]/button[2]/span[2]/span\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168934593,
+        "stop" : 1669168942623,
+        "duration" : 8030
+      }
+    }, {
+      "uid" : "8bf56c4fbd309461",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/14/allure/#testresult/8bf56c4fbd309461",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669104371073,
+        "stop" : 1669104381435,
+        "duration" : 10362
+      }
+    } ]
+  },
+  "e7ff6e2f2a89eeab0b28fc8ac6e21358" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 18
+    },
+    "items" : [ {
+      "uid" : "91c461b2c28d4337",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/91c461b2c28d4337",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670119312654,
+        "stop" : 1670119312685,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "85e3fb84d0198965",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/85e3fb84d0198965",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670032912642,
+        "stop" : 1670032912782,
+        "duration" : 140
+      }
+    }, {
+      "uid" : "874dc2a5f7477d3b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/874dc2a5f7477d3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949374638,
+        "stop" : 1669949374644,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "fcd61e92938ffc90",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/fcd61e92938ffc90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948278919,
+        "stop" : 1669948278926,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "b8a4457b551f2d39",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/b8a4457b551f2d39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948152960,
+        "stop" : 1669948152970,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "286ce2df49dc177c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/286ce2df49dc177c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669946481922,
+        "stop" : 1669946481965,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "9f30c2b4580dd5fc",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/9f30c2b4580dd5fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669891406804,
+        "stop" : 1669891406860,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "86161068d5ab39e3",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/86161068d5ab39e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860137977,
+        "stop" : 1669860137995,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "9b3cd642f0643bb6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/9b3cd642f0643bb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669779031812,
+        "stop" : 1669779031933,
+        "duration" : 121
+      }
+    }, {
+      "uid" : "be747009e20b22fe",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/be747009e20b22fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778787283,
+        "stop" : 1669778787370,
+        "duration" : 87
+      }
+    }, {
+      "uid" : "35f0c4da03c7a785",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/35f0c4da03c7a785",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669773709519,
+        "stop" : 1669773709527,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "af400dc06cd1bfde",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/af400dc06cd1bfde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687369979,
+        "stop" : 1669687370102,
+        "duration" : 123
+      }
+    }, {
+      "uid" : "42763125c3c0462c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/42763125c3c0462c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600964073,
+        "stop" : 1669600964161,
+        "duration" : 88
+      }
+    }, {
+      "uid" : "2efc50a5c50d2761",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/2efc50a5c50d2761",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669514540673,
+        "stop" : 1669514540680,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "73a98e46f09bf7ea",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/73a98e46f09bf7ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428168933,
+        "stop" : 1669428169001,
+        "duration" : 68
+      }
+    }, {
+      "uid" : "70d56306e7a8818b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/70d56306e7a8818b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669368041631,
+        "stop" : 1669368041747,
+        "duration" : 116
+      }
+    }, {
+      "uid" : "b5d4914fe537694",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/b5d4914fe537694",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669341744552,
+        "stop" : 1669341744572,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "37ebe1cabcae3c5d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/37ebe1cabcae3c5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669255383892,
+        "stop" : 1669255384032,
+        "duration" : 140
+      }
+    } ]
+  },
+  "b5157d46d68b656dc42442470f8a58a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 16,
+      "unknown" : 0,
+      "total" : 16
+    },
+    "items" : [ {
+      "uid" : "a44f770d43d17ee3",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/a44f770d43d17ee3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670119264382,
+        "stop" : 1670119264399,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "e61316d11abd8edf",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/e61316d11abd8edf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670032864376,
+        "stop" : 1670032864415,
+        "duration" : 39
+      }
+    }, {
+      "uid" : "9856fb8d4887cd5b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/9856fb8d4887cd5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949309821,
+        "stop" : 1669949309838,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "f4750e4ebec83fc6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/f4750e4ebec83fc6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948261857,
+        "stop" : 1669948261913,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "f09a8365380865f5",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/f09a8365380865f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948135793,
+        "stop" : 1669948135800,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "955dc9d0d95db699",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/955dc9d0d95db699",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669946464486,
+        "stop" : 1669946464526,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "d669eef8ae3c6625",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/d669eef8ae3c6625",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669891389000,
+        "stop" : 1669891389009,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "8347fe087ce95278",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/8347fe087ce95278",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860064162,
+        "stop" : 1669860064182,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "1341c7bc551af2a2",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/1341c7bc551af2a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778975470,
+        "stop" : 1669778975513,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "cc0362c2bb6fabd8",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/cc0362c2bb6fabd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778712755,
+        "stop" : 1669778712773,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "9098fec64348ab0b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/9098fec64348ab0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669773664055,
+        "stop" : 1669773664070,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "318ccc957ef683dd",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/318ccc957ef683dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687298266,
+        "stop" : 1669687298284,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "d5480a3fa27ca6d7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/d5480a3fa27ca6d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600907848,
+        "stop" : 1669600907865,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "76b49055ad68ffe",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/76b49055ad68ffe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669514495358,
+        "stop" : 1669514495385,
+        "duration" : 27
+      }
+    }, {
+      "uid" : "679b04ebdd90cca3",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/679b04ebdd90cca3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428096362,
+        "stop" : 1669428096426,
+        "duration" : 64
+      }
+    }, {
+      "uid" : "941a126c10a6c9ee",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/941a126c10a6c9ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669367968898,
+        "stop" : 1669367968975,
+        "duration" : 77
+      }
+    } ]
+  },
+  "1f2c0720b55c671c62ab7624f5c92d38" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 24,
+      "unknown" : 0,
+      "total" : 28
+    },
+    "items" : [ {
+      "uid" : "c92ca96639dfb617",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/c92ca96639dfb617",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670119264405,
+        "stop" : 1670119269269,
+        "duration" : 4864
+      }
+    }, {
+      "uid" : "e09efeb7d19531cf",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/e09efeb7d19531cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670032864421,
+        "stop" : 1670032868974,
+        "duration" : 4553
+      }
+    }, {
+      "uid" : "118fdc1dc0fccb93",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/118fdc1dc0fccb93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949309843,
+        "stop" : 1669949320246,
+        "duration" : 10403
+      }
+    }, {
+      "uid" : "852a50f309f133bd",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/852a50f309f133bd",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 106\nCurrent browser version is 108.0.5359.72 with binary path C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00561ED3+2236115]\n\tOrdinal0 [0x004F92F1+1807089]\n\tOrdinal0 [0x004066FD+812797]\n\tOrdinal0 [0x00428C6D+953453]\n\tOrdinal0 [0x00424200+934400]\n\tOrdinal0 [0x004219C9+924105]\n\tOrdinal0 [0x0045806C+1146988]\n\tOrdinal0 [0x00457A6A+1145450]\n\tOrdinal0 [0x004518A6+1120422]\n\tOrdinal0 [0x0042A73D+960317]\n\tOrdinal0 [0x0042B71F+964383]\n\tGetHandleVerifier [0x0080E7E2+2743074]\n\tGetHandleVerifier [0x008008D4+2685972]\n\tGetHandleVerifier [0x005F2BAA+532202]\n\tGetHandleVerifier [0x005F1990+527568]\n\tOrdinal0 [0x0050080C+1837068]\n\tOrdinal0 [0x00504CD8+1854680]\n\tOrdinal0 [0x00504DC5+1854917]\n\tOrdinal0 [0x0050ED64+1895780]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]",
+      "time" : {
+        "start" : 1669948261925,
+        "stop" : 1669948265410,
+        "duration" : 3485
+      }
+    }, {
+      "uid" : "ffbd3c079934c05e",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/ffbd3c079934c05e",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 106\nCurrent browser version is 108.0.5359.72 with binary path C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00561ED3+2236115]\n\tOrdinal0 [0x004F92F1+1807089]\n\tOrdinal0 [0x004066FD+812797]\n\tOrdinal0 [0x00428C6D+953453]\n\tOrdinal0 [0x00424200+934400]\n\tOrdinal0 [0x004219C9+924105]\n\tOrdinal0 [0x0045806C+1146988]\n\tOrdinal0 [0x00457A6A+1145450]\n\tOrdinal0 [0x004518A6+1120422]\n\tOrdinal0 [0x0042A73D+960317]\n\tOrdinal0 [0x0042B71F+964383]\n\tGetHandleVerifier [0x0080E7E2+2743074]\n\tGetHandleVerifier [0x008008D4+2685972]\n\tGetHandleVerifier [0x005F2BAA+532202]\n\tGetHandleVerifier [0x005F1990+527568]\n\tOrdinal0 [0x0050080C+1837068]\n\tOrdinal0 [0x00504CD8+1854680]\n\tOrdinal0 [0x00504DC5+1854917]\n\tOrdinal0 [0x0050ED64+1895780]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]",
+      "time" : {
+        "start" : 1669948135813,
+        "stop" : 1669948139473,
+        "duration" : 3660
+      }
+    }, {
+      "uid" : "68e29deae03fbfb1",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/68e29deae03fbfb1",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 106\nCurrent browser version is 108.0.5359.72 with binary path C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x002A1ED3+2236115]\n\tOrdinal0 [0x002392F1+1807089]\n\tOrdinal0 [0x001466FD+812797]\n\tOrdinal0 [0x00168C6D+953453]\n\tOrdinal0 [0x00164200+934400]\n\tOrdinal0 [0x001619C9+924105]\n\tOrdinal0 [0x0019806C+1146988]\n\tOrdinal0 [0x00197A6A+1145450]\n\tOrdinal0 [0x001918A6+1120422]\n\tOrdinal0 [0x0016A73D+960317]\n\tOrdinal0 [0x0016B71F+964383]\n\tGetHandleVerifier [0x0054E7E2+2743074]\n\tGetHandleVerifier [0x005408D4+2685972]\n\tGetHandleVerifier [0x00332BAA+532202]\n\tGetHandleVerifier [0x00331990+527568]\n\tOrdinal0 [0x0024080C+1837068]\n\tOrdinal0 [0x00244CD8+1854680]\n\tOrdinal0 [0x00244DC5+1854917]\n\tOrdinal0 [0x0024ED64+1895780]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]\n\t(No symbol) [0x00000000]",
+      "time" : {
+        "start" : 1669946464532,
+        "stop" : 1669946468337,
+        "duration" : 3805
+      }
+    }, {
+      "uid" : "327ba4d3c5362429",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/327ba4d3c5362429",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 106\nCurrent browser version is 108.0.5359.72 with binary path C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x004A1ED3+2236115]\n\tOrdinal0 [0x004392F1+1807089]\n\tOrdinal0 [0x003466FD+812797]\n\tOrdinal0 [0x00368C6D+953453]\n\tOrdinal0 [0x00364200+934400]\n\tOrdinal0 [0x003619C9+924105]\n\tOrdinal0 [0x0039806C+1146988]\n\tOrdinal0 [0x00397A6A+1145450]\n\tOrdinal0 [0x003918A6+1120422]\n\tOrdinal0 [0x0036A73D+960317]\n\tOrdinal0 [0x0036B71F+964383]\n\tGetHandleVerifier [0x0074E7E2+2743074]\n\tGetHandleVerifier [0x007408D4+2685972]\n\tGetHandleVerifier [0x00532BAA+532202]\n\tGetHandleVerifier [0x00531990+527568]\n\tOrdinal0 [0x0044080C+1837068]\n\tOrdinal0 [0x00444CD8+1854680]\n\tOrdinal0 [0x00444DC5+1854917]\n\tOrdinal0 [0x0044ED64+1895780]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]",
+      "time" : {
+        "start" : 1669891389014,
+        "stop" : 1669891392557,
+        "duration" : 3543
+      }
+    }, {
+      "uid" : "5a63be91c31ce733",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/5a63be91c31ce733",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860064190,
+        "stop" : 1669860067820,
+        "duration" : 3630
+      }
+    }, {
+      "uid" : "4f8d977ff1a2fa88",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/4f8d977ff1a2fa88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778975523,
+        "stop" : 1669778977263,
+        "duration" : 1740
+      }
+    }, {
+      "uid" : "9eec29d515067921",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/9eec29d515067921",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778712779,
+        "stop" : 1669778716997,
+        "duration" : 4218
+      }
+    }, {
+      "uid" : "211420324077a4ea",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/211420324077a4ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669773664073,
+        "stop" : 1669773666012,
+        "duration" : 1939
+      }
+    }, {
+      "uid" : "d1855933c366100e",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/d1855933c366100e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687298289,
+        "stop" : 1669687299711,
+        "duration" : 1422
+      }
+    }, {
+      "uid" : "4a0906d77a4c483f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/4a0906d77a4c483f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600907870,
+        "stop" : 1669600909266,
+        "duration" : 1396
+      }
+    }, {
+      "uid" : "ce1a43a5b03f2ce9",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/ce1a43a5b03f2ce9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669514495390,
+        "stop" : 1669514496813,
+        "duration" : 1423
+      }
+    }, {
+      "uid" : "23e68444bdd1fe72",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/23e68444bdd1fe72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428096429,
+        "stop" : 1669428097759,
+        "duration" : 1330
+      }
+    }, {
+      "uid" : "cc573d674d22fba",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/cc573d674d22fba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669367968979,
+        "stop" : 1669367970819,
+        "duration" : 1840
+      }
+    }, {
+      "uid" : "13fc28963459f7b9",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/13fc28963459f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669341664193,
+        "stop" : 1669341665585,
+        "duration" : 1392
+      }
+    }, {
+      "uid" : "8257b4659ccc2289",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/8257b4659ccc2289",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669255292855,
+        "stop" : 1669255294410,
+        "duration" : 1555
+      }
+    }, {
+      "uid" : "18f71233048f8990",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/16/allure/#testresult/18f71233048f8990",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669168888166,
+        "stop" : 1669168889659,
+        "duration" : 1493
+      }
+    }, {
+      "uid" : "f78f7f625efb2d3a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/14/allure/#testresult/f78f7f625efb2d3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669104320000,
+        "stop" : 1669104321330,
+        "duration" : 1330
+      }
+    } ]
+  },
+  "57ac7a33e554dc6b7eddd73e365d61f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2341fedc563d8d39",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/1/allure/#testresult/2341fedc563d8d39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668481915002,
+        "stop" : 1668481915067,
+        "duration" : 65
+      }
+    } ]
+  },
+  "5fa90ca6971759ed88ca4b101dd31e83" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 9,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 18
+    },
+    "items" : [ {
+      "uid" : "86056833a651f9c2",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/86056833a651f9c2",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\t(No symbol) [0x0105F243]\n\t(No symbol) [0x00FE7FD1]\n\t(No symbol) [0x00EDD04D]\n\t(No symbol) [0x00F0C0B0]\n\t(No symbol) [0x00F0C22B]\n\t(No symbol) [0x00F3E612]\n\t(No symbol) [0x00F285D4]\n\t(No symbol) [0x00F3C9EB]\n\t(No symbol) [0x00F28386]\n\t(No symbol) [0x00F0163C]\n\t(No symbol) [0x00F0269D]\n\tGetHandleVerifier [0x012F9A22+2655074]\n\tGetHandleVerifier [0x012ECA24+2601828]\n\tGetHandleVerifier [0x01108C0A+619850]\n\tGetHandleVerifier [0x01107830+614768]\n\t(No symbol) [0x00FF05FC]\n\t(No symbol) [0x00FF5968]\n\t(No symbol) [0x00FF5A55]\n\t(No symbol) [0x0100051B]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]",
+      "time" : {
+        "start" : 1670119291837,
+        "stop" : 1670119312230,
+        "duration" : 20393
+      }
+    }, {
+      "uid" : "f578f021ed9ee295",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/f578f021ed9ee295",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\t(No symbol) [0x0117F243]\n\t(No symbol) [0x01107FD1]\n\t(No symbol) [0x00FFD04D]\n\t(No symbol) [0x0102C0B0]\n\t(No symbol) [0x0102C22B]\n\t(No symbol) [0x0105E612]\n\t(No symbol) [0x010485D4]\n\t(No symbol) [0x0105C9EB]\n\t(No symbol) [0x01048386]\n\t(No symbol) [0x0102163C]\n\t(No symbol) [0x0102269D]\n\tGetHandleVerifier [0x01419A22+2655074]\n\tGetHandleVerifier [0x0140CA24+2601828]\n\tGetHandleVerifier [0x01228C0A+619850]\n\tGetHandleVerifier [0x01227830+614768]\n\t(No symbol) [0x011105FC]\n\t(No symbol) [0x01115968]\n\t(No symbol) [0x01115A55]\n\t(No symbol) [0x0112051B]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]",
+      "time" : {
+        "start" : 1670032891764,
+        "stop" : 1670032912090,
+        "duration" : 20326
+      }
+    }, {
+      "uid" : "c8c71eb4dc2396f0",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/c8c71eb4dc2396f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949345162,
+        "stop" : 1669949365272,
+        "duration" : 20110
+      }
+    }, {
+      "uid" : "1fd726b32f7906fb",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/1fd726b32f7906fb",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948278767,
+        "stop" : 1669948278767,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "450e22deca33ee9e",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/450e22deca33ee9e",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948152843,
+        "stop" : 1669948152843,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "788a021a57bb1240",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/788a021a57bb1240",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669946481705,
+        "stop" : 1669946481705,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5188a82892b64dc0",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/5188a82892b64dc0",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669891406377,
+        "stop" : 1669891406377,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "92b34bac09331e3d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/92b34bac09331e3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860092569,
+        "stop" : 1669860112706,
+        "duration" : 20137
+      }
+    }, {
+      "uid" : "9f5b6a0df197f39f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/9f5b6a0df197f39f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669779002190,
+        "stop" : 1669779022289,
+        "duration" : 20099
+      }
+    }, {
+      "uid" : "e49c280b2a878ede",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/e49c280b2a878ede",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778741502,
+        "stop" : 1669778761615,
+        "duration" : 20113
+      }
+    }, {
+      "uid" : "913f84c9efba60f4",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/913f84c9efba60f4",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669773688987,
+        "stop" : 1669773709249,
+        "duration" : 20262
+      }
+    }, {
+      "uid" : "fafb422ec6ad7295",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/fafb422ec6ad7295",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687324828,
+        "stop" : 1669687344927,
+        "duration" : 20099
+      }
+    }, {
+      "uid" : "1ab469a00a362e1d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/1ab469a00a362e1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600934359,
+        "stop" : 1669600954475,
+        "duration" : 20116
+      }
+    }, {
+      "uid" : "b795b6c4a25fe3e5",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/b795b6c4a25fe3e5",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669514519904,
+        "stop" : 1669514540409,
+        "duration" : 20505
+      }
+    }, {
+      "uid" : "8e75e12eae1ca6a1",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/8e75e12eae1ca6a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428123148,
+        "stop" : 1669428143288,
+        "duration" : 20140
+      }
+    }, {
+      "uid" : "4248f3c5843863a7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/4248f3c5843863a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669367995646,
+        "stop" : 1669368015765,
+        "duration" : 20119
+      }
+    }, {
+      "uid" : "5e6fa873e1534d15",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/5e6fa873e1534d15",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669341723675,
+        "stop" : 1669341744134,
+        "duration" : 20459
+      }
+    }, {
+      "uid" : "9de19ba9deef71e2",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/9de19ba9deef71e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669255354389,
+        "stop" : 1669255374528,
+        "duration" : 20139
+      }
+    } ]
+  },
+  "266657019a4a453e289d388d6b2da3ca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3802157881c3bd25",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/1/allure/#testresult/3802157881c3bd25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668481868638,
+        "stop" : 1668481874835,
+        "duration" : 6197
+      }
+    } ]
+  },
+  "f54da015099f4e8c391e708961a290b6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 18
+    },
+    "items" : [ {
+      "uid" : "86b7368cf43035df",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/86b7368cf43035df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670119312603,
+        "stop" : 1670119312643,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "1dc8565f71c0568c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/1dc8565f71c0568c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670032912495,
+        "stop" : 1670032912627,
+        "duration" : 132
+      }
+    }, {
+      "uid" : "5259a660c344fa2d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/5259a660c344fa2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949374622,
+        "stop" : 1669949374628,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "4d64bc44ca659fbf",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/4d64bc44ca659fbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948278903,
+        "stop" : 1669948278910,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "a114ae3d7b72c76c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/a114ae3d7b72c76c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948152943,
+        "stop" : 1669948152951,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "5f6d284639f2fc9c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/5f6d284639f2fc9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669946481858,
+        "stop" : 1669946481898,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "4c6d5c07fb7b5c35",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/4c6d5c07fb7b5c35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669891406689,
+        "stop" : 1669891406793,
+        "duration" : 104
+      }
+    }, {
+      "uid" : "eb3c6b07b3d86107",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/eb3c6b07b3d86107",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860137960,
+        "stop" : 1669860137967,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "4853ab855cc31237",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/4853ab855cc31237",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669779031669,
+        "stop" : 1669779031800,
+        "duration" : 131
+      }
+    }, {
+      "uid" : "d9b63336c4d49aca",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/d9b63336c4d49aca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778787185,
+        "stop" : 1669778787275,
+        "duration" : 90
+      }
+    }, {
+      "uid" : "9ddeb3fab2a38620",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/9ddeb3fab2a38620",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669773709502,
+        "stop" : 1669773709510,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "b413957b1060788",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/b413957b1060788",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687369861,
+        "stop" : 1669687369968,
+        "duration" : 107
+      }
+    }, {
+      "uid" : "5c060bd189374c2d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/5c060bd189374c2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600963960,
+        "stop" : 1669600964063,
+        "duration" : 103
+      }
+    }, {
+      "uid" : "3a30436a6789663b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/3a30436a6789663b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669514540657,
+        "stop" : 1669514540665,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "30a7b1e727a668f7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/30a7b1e727a668f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428168875,
+        "stop" : 1669428168925,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "955f25061b0f9e1d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/955f25061b0f9e1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669368041515,
+        "stop" : 1669368041623,
+        "duration" : 108
+      }
+    }, {
+      "uid" : "4f7bf31a5f83f6fd",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/4f7bf31a5f83f6fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669341744424,
+        "stop" : 1669341744530,
+        "duration" : 106
+      }
+    }, {
+      "uid" : "2e0a55fab2e802aa",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/2e0a55fab2e802aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669255383863,
+        "stop" : 1669255383881,
+        "duration" : 18
+      }
+    } ]
+  },
+  "6e247f4770f085f8a09de6f75fe0aed6" : {
+    "statistic" : {
+      "failed" : 6,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "1be91b0292451f84",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/14/allure/#testresult/1be91b0292451f84",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: None\nassert 200 == '200'\n +  where 200 = <Response [200]>.status_code",
+      "time" : {
+        "start" : 1669014009912,
+        "stop" : 1669014010098,
+        "duration" : 186
+      }
+    }, {
+      "uid" : "7f8babc446a123e6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/13/allure/#testresult/7f8babc446a123e6",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: None\nassert 200 == '200'\n +  where 200 = <Response [200]>.status_code",
+      "time" : {
+        "start" : 1669014009912,
+        "stop" : 1669014010098,
+        "duration" : 186
+      }
+    }, {
+      "uid" : "125f5876c0190ba7",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/12/allure/#testresult/125f5876c0190ba7",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: None\nassert 200 == '200'\n +  where 200 = <Response [200]>.status_code",
+      "time" : {
+        "start" : 1669014009912,
+        "stop" : 1669014010098,
+        "duration" : 186
+      }
+    }, {
+      "uid" : "1fda4675c535258b",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/11/allure/#testresult/1fda4675c535258b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: None\nassert 200 == '200'\n +  where 200 = <Response [200]>.status_code",
+      "time" : {
+        "start" : 1669014009912,
+        "stop" : 1669014010098,
+        "duration" : 186
+      }
+    }, {
+      "uid" : "1a5edb8f4ff2030c",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/9/allure/#testresult/1a5edb8f4ff2030c",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: None\nassert 200 == '200'\n +  where 200 = <Response [200]>.status_code",
+      "time" : {
+        "start" : 1668665240570,
+        "stop" : 1668665240819,
+        "duration" : 249
+      }
+    }, {
+      "uid" : "73e7c4395347660b",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/7/allure/#testresult/73e7c4395347660b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: None\nassert 200 == '200'\n +  where 200 = <Response [200]>.status_code",
+      "time" : {
+        "start" : 1668665240570,
+        "stop" : 1668665240819,
+        "duration" : 249
+      }
+    } ]
+  },
+  "9962b79533d8728b800cdd811044540d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 9,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 18
+    },
+    "items" : [ {
+      "uid" : "f36cc5b5b7ae16a3",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/f36cc5b5b7ae16a3",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/div[3]/div[4]/label/div/div[1]/div[2]/i\"}\n  (Session info: chrome=108.0.5359.72)\nStacktrace:\nBacktrace:\n\t(No symbol) [0x0105F243]\n\t(No symbol) [0x00FE7FD1]\n\t(No symbol) [0x00EDD04D]\n\t(No symbol) [0x00F0C0B0]\n\t(No symbol) [0x00F0C22B]\n\t(No symbol) [0x00F3E612]\n\t(No symbol) [0x00F285D4]\n\t(No symbol) [0x00F3C9EB]\n\t(No symbol) [0x00F28386]\n\t(No symbol) [0x00F0163C]\n\t(No symbol) [0x00F0269D]\n\tGetHandleVerifier [0x012F9A22+2655074]\n\tGetHandleVerifier [0x012ECA24+2601828]\n\tGetHandleVerifier [0x01108C0A+619850]\n\tGetHandleVerifier [0x01107830+614768]\n\t(No symbol) [0x00FF05FC]\n\t(No symbol) [0x00FF5968]\n\t(No symbol) [0x00FF5A55]\n\t(No symbol) [0x0100051B]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]",
+      "time" : {
+        "start" : 1670119312399,
+        "stop" : 1670119312410,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "c4485d053ae16f57",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/c4485d053ae16f57",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/div[3]/div[4]/label/div/div[1]/div[2]/i\"}\n  (Session info: chrome=108.0.5359.72)\nStacktrace:\nBacktrace:\n\t(No symbol) [0x0117F243]\n\t(No symbol) [0x01107FD1]\n\t(No symbol) [0x00FFD04D]\n\t(No symbol) [0x0102C0B0]\n\t(No symbol) [0x0102C22B]\n\t(No symbol) [0x0105E612]\n\t(No symbol) [0x010485D4]\n\t(No symbol) [0x0105C9EB]\n\t(No symbol) [0x01048386]\n\t(No symbol) [0x0102163C]\n\t(No symbol) [0x0102269D]\n\tGetHandleVerifier [0x01419A22+2655074]\n\tGetHandleVerifier [0x0140CA24+2601828]\n\tGetHandleVerifier [0x01228C0A+619850]\n\tGetHandleVerifier [0x01227830+614768]\n\t(No symbol) [0x011105FC]\n\t(No symbol) [0x01115968]\n\t(No symbol) [0x01115A55]\n\t(No symbol) [0x0112051B]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]",
+      "time" : {
+        "start" : 1670032912228,
+        "stop" : 1670032912238,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "9d914ebe02cf3e09",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/9d914ebe02cf3e09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949373786,
+        "stop" : 1669949374502,
+        "duration" : 716
+      }
+    }, {
+      "uid" : "86fc10fdf1aa7cc7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/86fc10fdf1aa7cc7",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948278819,
+        "stop" : 1669948278819,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8b460f9cdf917a6b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/8b460f9cdf917a6b",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948152883,
+        "stop" : 1669948152884,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "21b807e2f3ce6b1b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/21b807e2f3ce6b1b",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669946481747,
+        "stop" : 1669946481747,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b598d8b426470e80",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/b598d8b426470e80",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669891406410,
+        "stop" : 1669891406410,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f23162f075134cfb",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/f23162f075134cfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860121136,
+        "stop" : 1669860121826,
+        "duration" : 690
+      }
+    }, {
+      "uid" : "603bdabd62e516b7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/603bdabd62e516b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669779030908,
+        "stop" : 1669779031589,
+        "duration" : 681
+      }
+    }, {
+      "uid" : "6e7fd87660ae40b4",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/6e7fd87660ae40b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778770196,
+        "stop" : 1669778770927,
+        "duration" : 731
+      }
+    }, {
+      "uid" : "92f6d4f31a604b86",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/92f6d4f31a604b86",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/div[3]/div[4]/label/div/div[1]/div[2]/i\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669773709375,
+        "stop" : 1669773709386,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "9b8e67154663bb15",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/9b8e67154663bb15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687353365,
+        "stop" : 1669687353642,
+        "duration" : 277
+      }
+    }, {
+      "uid" : "e3885b8f4bfb8934",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/e3885b8f4bfb8934",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600962962,
+        "stop" : 1669600963675,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "8f4755a69591612a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/8f4755a69591612a",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/div[3]/div[4]/label/div/div[1]/div[2]/i\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669514540526,
+        "stop" : 1669514540537,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "8ab1d0ed1a4a7339",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/8ab1d0ed1a4a7339",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428151767,
+        "stop" : 1669428152441,
+        "duration" : 674
+      }
+    }, {
+      "uid" : "7fddccce7d799454",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/7fddccce7d799454",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669368024249,
+        "stop" : 1669368024982,
+        "duration" : 733
+      }
+    }, {
+      "uid" : "716e3e7ecbd35f91",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/716e3e7ecbd35f91",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/div[3]/div[4]/label/div/div[1]/div[2]/i\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669341744255,
+        "stop" : 1669341744267,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "c0aa638f7e64a1d1",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/c0aa638f7e64a1d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669255383050,
+        "stop" : 1669255383793,
+        "duration" : 743
+      }
+    } ]
+  },
+  "72bd4ea01b55207d26da021ede11cfba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 14,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "2baef4ea4abca30d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/2baef4ea4abca30d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/label[2]/div/div[1]/div/input\"}\n  (Session info: chrome=108.0.5359.72)\nStacktrace:\nBacktrace:\n\t(No symbol) [0x0105F243]\n\t(No symbol) [0x00FE7FD1]\n\t(No symbol) [0x00EDD04D]\n\t(No symbol) [0x00F0C0B0]\n\t(No symbol) [0x00F0C22B]\n\t(No symbol) [0x00F3E612]\n\t(No symbol) [0x00F285D4]\n\t(No symbol) [0x00F3C9EB]\n\t(No symbol) [0x00F28386]\n\t(No symbol) [0x00F0163C]\n\t(No symbol) [0x00F0269D]\n\tGetHandleVerifier [0x012F9A22+2655074]\n\tGetHandleVerifier [0x012ECA24+2601828]\n\tGetHandleVerifier [0x01108C0A+619850]\n\tGetHandleVerifier [0x01107830+614768]\n\t(No symbol) [0x00FF05FC]\n\t(No symbol) [0x00FF5968]\n\t(No symbol) [0x00FF5A55]\n\t(No symbol) [0x0100051B]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]",
+      "time" : {
+        "start" : 1670119312287,
+        "stop" : 1670119312306,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "3c7f9bd54d351ddb",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/3c7f9bd54d351ddb",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/label[2]/div/div[1]/div/input\"}\n  (Session info: chrome=108.0.5359.72)\nStacktrace:\nBacktrace:\n\t(No symbol) [0x0117F243]\n\t(No symbol) [0x01107FD1]\n\t(No symbol) [0x00FFD04D]\n\t(No symbol) [0x0102C0B0]\n\t(No symbol) [0x0102C22B]\n\t(No symbol) [0x0105E612]\n\t(No symbol) [0x010485D4]\n\t(No symbol) [0x0105C9EB]\n\t(No symbol) [0x01048386]\n\t(No symbol) [0x0102163C]\n\t(No symbol) [0x0102269D]\n\tGetHandleVerifier [0x01419A22+2655074]\n\tGetHandleVerifier [0x0140CA24+2601828]\n\tGetHandleVerifier [0x01228C0A+619850]\n\tGetHandleVerifier [0x01227830+614768]\n\t(No symbol) [0x011105FC]\n\t(No symbol) [0x01115968]\n\t(No symbol) [0x01115A55]\n\t(No symbol) [0x0112051B]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]",
+      "time" : {
+        "start" : 1670032912125,
+        "stop" : 1670032912138,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "6a1e5bf9e4b1fb71",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/6a1e5bf9e4b1fb71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949365278,
+        "stop" : 1669949370515,
+        "duration" : 5237
+      }
+    }, {
+      "uid" : "d282e9a63fe8937c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/d282e9a63fe8937c",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948278778,
+        "stop" : 1669948278778,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "249d5519362496f9",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/249d5519362496f9",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948152856,
+        "stop" : 1669948152856,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8a6bc81b137c9231",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/8a6bc81b137c9231",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669946481719,
+        "stop" : 1669946481720,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ee1d4a66391f8c77",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/ee1d4a66391f8c77",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669891406387,
+        "stop" : 1669891406387,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "26d27802bdc278a1",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/26d27802bdc278a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860112715,
+        "stop" : 1669860117934,
+        "duration" : 5219
+      }
+    }, {
+      "uid" : "1dc78c9df7beee96",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/1dc78c9df7beee96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669779022295,
+        "stop" : 1669779027631,
+        "duration" : 5336
+      }
+    }, {
+      "uid" : "50af1d31778bfcf4",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/50af1d31778bfcf4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778761621,
+        "stop" : 1669778766832,
+        "duration" : 5211
+      }
+    }, {
+      "uid" : "6be61c595ac986fe",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/6be61c595ac986fe",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/label[2]/div/div[1]/div/input\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669773709276,
+        "stop" : 1669773709288,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "34679c6d794ef2c6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/34679c6d794ef2c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687344940,
+        "stop" : 1669687350151,
+        "duration" : 5211
+      }
+    }, {
+      "uid" : "e8e3a1a1cce77212",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/e8e3a1a1cce77212",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600954481,
+        "stop" : 1669600959731,
+        "duration" : 5250
+      }
+    }, {
+      "uid" : "7670ed52866b6e1e",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/7670ed52866b6e1e",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/label[2]/div/div[1]/div/input\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669514540432,
+        "stop" : 1669514540443,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "1a194803217419ec",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/1a194803217419ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428143295,
+        "stop" : 1669428148522,
+        "duration" : 5227
+      }
+    }, {
+      "uid" : "4bccec4134abf741",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/4bccec4134abf741",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669368015772,
+        "stop" : 1669368020987,
+        "duration" : 5215
+      }
+    }, {
+      "uid" : "84b264c5cde66b77",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/84b264c5cde66b77",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/label[2]/div/div[1]/div/input\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669341744156,
+        "stop" : 1669341744167,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "9c3e725379d957de",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/9c3e725379d957de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669255374541,
+        "stop" : 1669255379754,
+        "duration" : 5213
+      }
+    }, {
+      "uid" : "8de50a347dccbcd0",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/16/allure/#testresult/8de50a347dccbcd0",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/label[2]/div/div[1]/div/input\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168962736,
+        "stop" : 1669168962747,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "af80c02efb2fdd13",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/14/allure/#testresult/af80c02efb2fdd13",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[3]/div/div[2]/div[1]/div[2]/div\"}\n  (Session info: chrome=106.0.5249.62)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00E21ED3+2236115]\n\tOrdinal0 [0x00DB92F1+1807089]\n\tOrdinal0 [0x00CC66FD+812797]\n\tOrdinal0 [0x00CF55DF+1005023]\n\tOrdinal0 [0x00CF57CB+1005515]\n\tOrdinal0 [0x00D27632+1209906]\n\tOrdinal0 [0x00D11AD4+1120980]\n\tOrdinal0 [0x00D259E2+1202658]\n\tOrdinal0 [0x00D118A6+1120422]\n\tOrdinal0 [0x00CEA73D+960317]\n\tOrdinal0 [0x00CEB71F+964383]\n\tGetHandleVerifier [0x010CE7E2+2743074]\n\tGetHandleVerifier [0x010C08D4+2685972]\n\tGetHandleVerifier [0x00EB2BAA+532202]\n\tGetHandleVerifier [0x00EB1990+527568]\n\tOrdinal0 [0x00DC080C+1837068]\n\tOrdinal0 [0x00DC4CD8+1854680]\n\tOrdinal0 [0x00DC4DC5+1854917]\n\tOrdinal0 [0x00DCED64+1895780]\n\tBaseThreadInitThunk [0x76CFFA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x776F7A9E+286]\n\tRtlGetAppContainerNamedObjectPath [0x776F7A6E+238]",
+      "time" : {
+        "start" : 1669100579529,
+        "stop" : 1669100579893,
+        "duration" : 364
+      }
+    } ]
+  },
+  "b94397256f08ce5523fdb3acbbd1d329" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d8d97f6d8222d67",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/1/allure/#testresult/2d8d97f6d8222d67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668483686881,
+        "stop" : 1668483688548,
+        "duration" : 1667
+      }
+    } ]
+  },
+  "9ce9b085610c344ed46447d7f398811a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2aa3796ea25848e",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/1/allure/#testresult/b2aa3796ea25848e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668481866719,
+        "stop" : 1668481868633,
+        "duration" : 1914
+      }
+    } ]
+  },
+  "393ee86e115e99bcce3315921ee98716" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 9,
+      "skipped" : 0,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 27
+    },
+    "items" : [ {
+      "uid" : "99cf9d579c6d3d74",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/99cf9d579c6d3d74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670119283454,
+        "stop" : 1670119283535,
+        "duration" : 81
+      }
+    }, {
+      "uid" : "66647100765e6868",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/66647100765e6868",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670032883394,
+        "stop" : 1670032883483,
+        "duration" : 89
+      }
+    }, {
+      "uid" : "f1a108f4b4edad1c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/f1a108f4b4edad1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949334630,
+        "stop" : 1669949334739,
+        "duration" : 109
+      }
+    }, {
+      "uid" : "aa2bd91ebf9df221",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/aa2bd91ebf9df221",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948270723,
+        "stop" : 1669948270739,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "1ca773dd1c0ecf12",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/1ca773dd1c0ecf12",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948144809,
+        "stop" : 1669948144817,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "3b6b9a25f315fefe",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/3b6b9a25f315fefe",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669946473667,
+        "stop" : 1669946473674,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "d7c4ec937f2e6806",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/d7c4ec937f2e6806",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669891398343,
+        "stop" : 1669891398351,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "25807d4805d90774",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/25807d4805d90774",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860082049,
+        "stop" : 1669860082190,
+        "duration" : 141
+      }
+    }, {
+      "uid" : "fbf672460192a67a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/fbf672460192a67a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778991723,
+        "stop" : 1669778991815,
+        "duration" : 92
+      }
+    }, {
+      "uid" : "399eb3a096f08233",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/399eb3a096f08233",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778731040,
+        "stop" : 1669778731119,
+        "duration" : 79
+      }
+    }, {
+      "uid" : "e27d5cf3a5243031",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/e27d5cf3a5243031",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div[1]/form/div/label/div/div[1]/div/input\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669773680589,
+        "stop" : 1669773680621,
+        "duration" : 32
+      }
+    }, {
+      "uid" : "19e38950f17893cf",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/19e38950f17893cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687314356,
+        "stop" : 1669687314424,
+        "duration" : 68
+      }
+    }, {
+      "uid" : "7a296d5473b4e4de",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/7a296d5473b4e4de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600923858,
+        "stop" : 1669600923966,
+        "duration" : 108
+      }
+    }, {
+      "uid" : "a4c59c5dfbe49a97",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/a4c59c5dfbe49a97",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div[1]/form/div/label/div/div[1]/div/input\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669514511470,
+        "stop" : 1669514511532,
+        "duration" : 62
+      }
+    }, {
+      "uid" : "7e5eba087327a35c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/7e5eba087327a35c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428112410,
+        "stop" : 1669428112734,
+        "duration" : 324
+      }
+    }, {
+      "uid" : "6d1862c655666f4",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/6d1862c655666f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669367985119,
+        "stop" : 1669367985225,
+        "duration" : 106
+      }
+    }, {
+      "uid" : "738133b58bd329d6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/738133b58bd329d6",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div[1]/form/div/label/div/div[1]/div/input\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669341715256,
+        "stop" : 1669341715307,
+        "duration" : 51
+      }
+    }, {
+      "uid" : "25acaea1c383090d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/25acaea1c383090d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669255343860,
+        "stop" : 1669255343951,
+        "duration" : 91
+      }
+    }, {
+      "uid" : "74bace7dcacf6b7d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/16/allure/#testresult/74bace7dcacf6b7d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div[1]/form/div/label/div/div[1]/div/input\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168934519,
+        "stop" : 1669168934552,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "7f20891c44042340",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/14/allure/#testresult/7f20891c44042340",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669104370979,
+        "stop" : 1669104371066,
+        "duration" : 87
+      }
+    } ]
+  },
+  "064207c55dff18a146f83c805210fb99" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69007e0e2a806398",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/1/allure/#testresult/69007e0e2a806398",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/d5555iv[1]/div/div/main/div/div[2]/div/div/div[1]/form/label\"}\n  (Session info: chrome=106.0.5249.62)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00761ED3+2236115]\n\tOrdinal0 [0x006F92F1+1807089]\n\tOrdinal0 [0x006066FD+812797]\n\tOrdinal0 [0x006355DF+1005023]\n\tOrdinal0 [0x006357CB+1005515]\n\tOrdinal0 [0x00667632+1209906]\n\tOrdinal0 [0x00651AD4+1120980]\n\tOrdinal0 [0x006659E2+1202658]\n\tOrdinal0 [0x006518A6+1120422]\n\tOrdinal0 [0x0062A73D+960317]\n\tOrdinal0 [0x0062B71F+964383]\n\tGetHandleVerifier [0x00A0E7E2+2743074]\n\tGetHandleVerifier [0x00A008D4+2685972]\n\tGetHandleVerifier [0x007F2BAA+532202]\n\tGetHandleVerifier [0x007F1990+527568]\n\tOrdinal0 [0x0070080C+1837068]\n\tOrdinal0 [0x00704CD8+1854680]\n\tOrdinal0 [0x00704DC5+1854917]\n\tOrdinal0 [0x0070ED64+1895780]\n\tBaseThreadInitThunk [0x76CFFA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x776F7A9E+286]\n\tRtlGetAppContainerNamedObjectPath [0x776F7A6E+238]",
+      "time" : {
+        "start" : 1668483693355,
+        "stop" : 1668483733385,
+        "duration" : 40030
+      }
+    } ]
+  },
+  "3fd09a5bfe764e4ce695f59e14719375" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 23,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 27
+    },
+    "items" : [ {
+      "uid" : "b7842fe6349c1927",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/b7842fe6349c1927",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "bd86c1d4bbb30829",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/bd86c1d4bbb30829",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "6d5c3898b39afad9",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/6d5c3898b39afad9",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "bd03d9de7965fece",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/bd03d9de7965fece",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "76672571b9a8f303",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/76672571b9a8f303",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "8af3b3ead2269bad",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/8af3b3ead2269bad",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "f8c8e947654259c3",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/f8c8e947654259c3",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "110b9c2ff933cd76",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/110b9c2ff933cd76",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "65b7834e2c9696b3",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/65b7834e2c9696b3",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "b7c53748f3c053f7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/b7c53748f3c053f7",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "78910c4bec7244a3",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/78910c4bec7244a3",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "cf3fb5188c2d97d7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/cf3fb5188c2d97d7",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "4e170ca6861b61fd",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/4e170ca6861b61fd",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "73e00c5e3be287b4",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/73e00c5e3be287b4",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "383a357adc48f730",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/383a357adc48f730",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "6f9cfcae7d174f25",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/6f9cfcae7d174f25",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "3373be76e340d27b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/3373be76e340d27b",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "6e62c374b6f765d6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/6e62c374b6f765d6",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "dacd5ffebe9a3ff1",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/16/allure/#testresult/dacd5ffebe9a3ff1",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168942668,
+        "stop" : 1669168962716,
+        "duration" : 20048
+      }
+    }, {
+      "uid" : "ef210450f91fb965",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/14/allure/#testresult/ef210450f91fb965",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669104381441,
+        "stop" : 1669104401570,
+        "duration" : 20129
+      }
+    } ]
+  },
+  "0e1460fca3f18f45856145e52815562c" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 22,
+      "unknown" : 0,
+      "total" : 28
+    },
+    "items" : [ {
+      "uid" : "d011776d60173c50",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/d011776d60173c50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670119269296,
+        "stop" : 1670119273148,
+        "duration" : 3852
+      }
+    }, {
+      "uid" : "77ce06b197b8831a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/77ce06b197b8831a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670032868999,
+        "stop" : 1670032873212,
+        "duration" : 4213
+      }
+    }, {
+      "uid" : "c4ec1a62fabf0a47",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/c4ec1a62fabf0a47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949320256,
+        "stop" : 1669949324480,
+        "duration" : 4224
+      }
+    }, {
+      "uid" : "e7cca6e1fb201de5",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/e7cca6e1fb201de5",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948265700,
+        "stop" : 1669948265700,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a16bfef2b7cc3b73",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/a16bfef2b7cc3b73",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948139783,
+        "stop" : 1669948139784,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8885c228f230474a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/8885c228f230474a",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669946468639,
+        "stop" : 1669946468639,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dd66d8535e6805cb",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/dd66d8535e6805cb",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669891393289,
+        "stop" : 1669891393289,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "746abde6134a4d5a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/746abde6134a4d5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860067828,
+        "stop" : 1669860071885,
+        "duration" : 4057
+      }
+    }, {
+      "uid" : "d73f9a5cfcbfdf77",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/d73f9a5cfcbfdf77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778977268,
+        "stop" : 1669778981568,
+        "duration" : 4300
+      }
+    }, {
+      "uid" : "e833b289d4f250e7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/e833b289d4f250e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778717005,
+        "stop" : 1669778720883,
+        "duration" : 3878
+      }
+    }, {
+      "uid" : "fb93b48c9a847656",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/fb93b48c9a847656",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669773666017,
+        "stop" : 1669773670430,
+        "duration" : 4413
+      }
+    }, {
+      "uid" : "d9510f01e5850135",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/d9510f01e5850135",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687299716,
+        "stop" : 1669687304203,
+        "duration" : 4487
+      }
+    }, {
+      "uid" : "6972ed0f7b4820e2",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/6972ed0f7b4820e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600909281,
+        "stop" : 1669600913705,
+        "duration" : 4424
+      }
+    }, {
+      "uid" : "8f54daf5a0e53f66",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/8f54daf5a0e53f66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669514496820,
+        "stop" : 1669514501298,
+        "duration" : 4478
+      }
+    }, {
+      "uid" : "a7932e794d2e5d4",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/a7932e794d2e5d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428097762,
+        "stop" : 1669428102258,
+        "duration" : 4496
+      }
+    }, {
+      "uid" : "7460b000d3182208",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/7460b000d3182208",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669367970826,
+        "stop" : 1669367974951,
+        "duration" : 4125
+      }
+    }, {
+      "uid" : "877e5c01943a5d49",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/877e5c01943a5d49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669341665592,
+        "stop" : 1669341670094,
+        "duration" : 4502
+      }
+    }, {
+      "uid" : "3c3d7a1f99cbdc11",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/3c3d7a1f99cbdc11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669255294415,
+        "stop" : 1669255298693,
+        "duration" : 4278
+      }
+    }, {
+      "uid" : "66edc52d6a7bab59",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/16/allure/#testresult/66edc52d6a7bab59",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '登入' == '簡訊登入'\n  - 簡訊登入\n  + 登入",
+      "time" : {
+        "start" : 1669168889665,
+        "stop" : 1669168894198,
+        "duration" : 4533
+      }
+    }, {
+      "uid" : "a57ad7a2e0fd0979",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/14/allure/#testresult/a57ad7a2e0fd0979",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669104321344,
+        "stop" : 1669104325791,
+        "duration" : 4447
+      }
+    } ]
+  },
+  "7d6fc74fc6c08ab590bea96072733fa3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9bc05c02440138f7",
+      "reportUrl" : "https://a0d4-60-248-103-165.jp.ngrok.io/job/SSO_Login/1/allure/#testresult/9bc05c02440138f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668483688561,
+        "stop" : 1668483693351,
+        "duration" : 4790
+      }
+    } ]
+  },
+  "09c2232bda340a6db96a9034fe6af67a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 18
+    },
+    "items" : [ {
+      "uid" : "3070d664fbf149f5",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/3070d664fbf149f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670119312542,
+        "stop" : 1670119312593,
+        "duration" : 51
+      }
+    }, {
+      "uid" : "caddde34cf9b0963",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/caddde34cf9b0963",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670032912426,
+        "stop" : 1670032912485,
+        "duration" : 59
+      }
+    }, {
+      "uid" : "fb7a220ccbc7e699",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/fb7a220ccbc7e699",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949374606,
+        "stop" : 1669949374612,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "a3fe71cd0b8bb771",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/a3fe71cd0b8bb771",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948278877,
+        "stop" : 1669948278893,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "bb88f75f21f47110",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/bb88f75f21f47110",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948152924,
+        "stop" : 1669948152932,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "d565d9264fed584f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/d565d9264fed584f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669946481812,
+        "stop" : 1669946481848,
+        "duration" : 36
+      }
+    }, {
+      "uid" : "aafca9e220bfcad2",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/aafca9e220bfcad2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669891406575,
+        "stop" : 1669891406676,
+        "duration" : 101
+      }
+    }, {
+      "uid" : "d6e8d0e6e96cbb4c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/d6e8d0e6e96cbb4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860137932,
+        "stop" : 1669860137950,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "e168e297a8085d58",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/e168e297a8085d58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669779031649,
+        "stop" : 1669779031658,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "ca9a21b572c9531d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/ca9a21b572c9531d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778787102,
+        "stop" : 1669778787174,
+        "duration" : 72
+      }
+    }, {
+      "uid" : "ca42c799ae8efecf",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/ca42c799ae8efecf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669773709485,
+        "stop" : 1669773709492,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "2e96302e745bbaa6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/2e96302e745bbaa6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687369812,
+        "stop" : 1669687369851,
+        "duration" : 39
+      }
+    }, {
+      "uid" : "208417e42dbbed05",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/208417e42dbbed05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600963771,
+        "stop" : 1669600963951,
+        "duration" : 180
+      }
+    }, {
+      "uid" : "cd3a889cd72e588",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/cd3a889cd72e588",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669514540639,
+        "stop" : 1669514540648,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "d97082f03a48a925",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/d97082f03a48a925",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428168815,
+        "stop" : 1669428168868,
+        "duration" : 53
+      }
+    }, {
+      "uid" : "89f4521e54182a4f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/89f4521e54182a4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669368041424,
+        "stop" : 1669368041505,
+        "duration" : 81
+      }
+    }, {
+      "uid" : "b933a3cc412bc39a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/b933a3cc412bc39a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669341744356,
+        "stop" : 1669341744408,
+        "duration" : 52
+      }
+    }, {
+      "uid" : "5a107c674e1a773f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/5a107c674e1a773f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669255383827,
+        "stop" : 1669255383852,
+        "duration" : 25
+      }
+    } ]
+  },
+  "db52130687c9ca0b71d95855963f9424" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 6,
+      "skipped" : 0,
+      "passed" : 22,
+      "unknown" : 0,
+      "total" : 28
+    },
+    "items" : [ {
+      "uid" : "f8bb3393cfe09ab5",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/f8bb3393cfe09ab5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670119273160,
+        "stop" : 1670119283440,
+        "duration" : 10280
+      }
+    }, {
+      "uid" : "cb43a992de986a34",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/cb43a992de986a34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670032873231,
+        "stop" : 1670032883388,
+        "duration" : 10157
+      }
+    }, {
+      "uid" : "111c1b30ec220cc4",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/111c1b30ec220cc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949324485,
+        "stop" : 1669949334624,
+        "duration" : 10139
+      }
+    }, {
+      "uid" : "4e3adc0c67ece738",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/4e3adc0c67ece738",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948265711,
+        "stop" : 1669948270711,
+        "duration" : 5000
+      }
+    }, {
+      "uid" : "cc3a09ae9eb50f35",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/cc3a09ae9eb50f35",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948139795,
+        "stop" : 1669948144795,
+        "duration" : 5000
+      }
+    }, {
+      "uid" : "4f0e225a412be2cd",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/4f0e225a412be2cd",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669946468650,
+        "stop" : 1669946473650,
+        "duration" : 5000
+      }
+    }, {
+      "uid" : "960ec503fba378f7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/960ec503fba378f7",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669891393302,
+        "stop" : 1669891398305,
+        "duration" : 5003
+      }
+    }, {
+      "uid" : "fbb5fbccb4ce7283",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/fbb5fbccb4ce7283",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860071891,
+        "stop" : 1669860082032,
+        "duration" : 10141
+      }
+    }, {
+      "uid" : "bc318948cbf679a1",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/bc318948cbf679a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778981581,
+        "stop" : 1669778991717,
+        "duration" : 10136
+      }
+    }, {
+      "uid" : "79113fb0d6e74972",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/79113fb0d6e74972",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778720890,
+        "stop" : 1669778731035,
+        "duration" : 10145
+      }
+    }, {
+      "uid" : "518eafb71742066d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/518eafb71742066d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669773670436,
+        "stop" : 1669773680585,
+        "duration" : 10149
+      }
+    }, {
+      "uid" : "781ca5626471646a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/781ca5626471646a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687304207,
+        "stop" : 1669687314349,
+        "duration" : 10142
+      }
+    }, {
+      "uid" : "794c8de50a3c99b8",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/794c8de50a3c99b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600913710,
+        "stop" : 1669600923848,
+        "duration" : 10138
+      }
+    }, {
+      "uid" : "8a4a1a09ab252e9a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/8a4a1a09ab252e9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669514501302,
+        "stop" : 1669514511456,
+        "duration" : 10154
+      }
+    }, {
+      "uid" : "2f71701be88b152",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/2f71701be88b152",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428102261,
+        "stop" : 1669428112406,
+        "duration" : 10145
+      }
+    }, {
+      "uid" : "14568fde51eac2a5",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/14568fde51eac2a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669367974956,
+        "stop" : 1669367985113,
+        "duration" : 10157
+      }
+    }, {
+      "uid" : "90df0c76d61e0f83",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/90df0c76d61e0f83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669341670101,
+        "stop" : 1669341715251,
+        "duration" : 45150
+      }
+    }, {
+      "uid" : "b2226267c2407014",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/b2226267c2407014",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669255298697,
+        "stop" : 1669255343845,
+        "duration" : 45148
+      }
+    }, {
+      "uid" : "7efe55b74e1b5244",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/16/allure/#testresult/7efe55b74e1b5244",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div[1]/form/label\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x005A1ED3+2236115]\n\tOrdinal0 [0x005392F1+1807089]\n\tOrdinal0 [0x004466FD+812797]\n\tOrdinal0 [0x004755DF+1005023]\n\tOrdinal0 [0x004757CB+1005515]\n\tOrdinal0 [0x004A7632+1209906]\n\tOrdinal0 [0x00491AD4+1120980]\n\tOrdinal0 [0x004A59E2+1202658]\n\tOrdinal0 [0x004918A6+1120422]\n\tOrdinal0 [0x0046A73D+960317]\n\tOrdinal0 [0x0046B71F+964383]\n\tGetHandleVerifier [0x0084E7E2+2743074]\n\tGetHandleVerifier [0x008408D4+2685972]\n\tGetHandleVerifier [0x00632BAA+532202]\n\tGetHandleVerifier [0x00631990+527568]\n\tOrdinal0 [0x0054080C+1837068]\n\tOrdinal0 [0x00544CD8+1854680]\n\tOrdinal0 [0x00544DC5+1854917]\n\tOrdinal0 [0x0054ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669168894413,
+        "stop" : 1669168934459,
+        "duration" : 40046
+      }
+    }, {
+      "uid" : "70ee2abec209f83f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/14/allure/#testresult/70ee2abec209f83f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669104325796,
+        "stop" : 1669104370970,
+        "duration" : 45174
+      }
+    } ]
+  },
+  "16b86078cfe4d23b69edb2aa7ea01390" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 18
+    },
+    "items" : [ {
+      "uid" : "801da5c7f9aecbb",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/801da5c7f9aecbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670119312486,
+        "stop" : 1670119312535,
+        "duration" : 49
+      }
+    }, {
+      "uid" : "fc6a9c9d60b8e280",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/fc6a9c9d60b8e280",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670032912314,
+        "stop" : 1670032912419,
+        "duration" : 105
+      }
+    }, {
+      "uid" : "2dbdde6cbd6fae4b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/2dbdde6cbd6fae4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949374545,
+        "stop" : 1669949374601,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "3188d9a9ee6e311c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/3188d9a9ee6e311c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948278860,
+        "stop" : 1669948278870,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "63d20fbbb332bcdd",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/63d20fbbb332bcdd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948152910,
+        "stop" : 1669948152918,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "4b65bb10d21fff83",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/4b65bb10d21fff83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669946481771,
+        "stop" : 1669946481804,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "739b92b588512839",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/739b92b588512839",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669891406432,
+        "stop" : 1669891406568,
+        "duration" : 136
+      }
+    }, {
+      "uid" : "aea727fc85f9317f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/aea727fc85f9317f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860137915,
+        "stop" : 1669860137925,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "8dc648e958c3636a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/8dc648e958c3636a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669779031635,
+        "stop" : 1669779031643,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "b45c314715c83cba",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/b45c314715c83cba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778787005,
+        "stop" : 1669778787094,
+        "duration" : 89
+      }
+    }, {
+      "uid" : "420cc673384bc67d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/420cc673384bc67d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669773709461,
+        "stop" : 1669773709479,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "4eee1e96d1221171",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/4eee1e96d1221171",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687369734,
+        "stop" : 1669687369806,
+        "duration" : 72
+      }
+    }, {
+      "uid" : "f3ce105fea468afc",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/f3ce105fea468afc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600963721,
+        "stop" : 1669600963764,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "3bd7a65e223c5fee",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/3bd7a65e223c5fee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669514540613,
+        "stop" : 1669514540633,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "48003a75af6e264a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/48003a75af6e264a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428168697,
+        "stop" : 1669428168809,
+        "duration" : 112
+      }
+    }, {
+      "uid" : "6a0b8fd502f044e1",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/6a0b8fd502f044e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669368041250,
+        "stop" : 1669368041418,
+        "duration" : 168
+      }
+    }, {
+      "uid" : "6ff15fdc73432c92",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/6ff15fdc73432c92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669341744305,
+        "stop" : 1669341744348,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "9c05544cd0b34bab",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/9c05544cd0b34bab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669255383799,
+        "stop" : 1669255383820,
+        "duration" : 21
+      }
+    } ]
+  },
+  "d3609693445657c32bf86c359882ea5e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 9,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 18
+    },
+    "items" : [ {
+      "uid" : "b520ab268130931",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/34/allure/#testresult/b520ab268130931",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/label[4]/div/div[1]/div[1]/i\"}\n  (Session info: chrome=108.0.5359.72)\nStacktrace:\nBacktrace:\n\t(No symbol) [0x0105F243]\n\t(No symbol) [0x00FE7FD1]\n\t(No symbol) [0x00EDD04D]\n\t(No symbol) [0x00F0C0B0]\n\t(No symbol) [0x00F0C22B]\n\t(No symbol) [0x00F3E612]\n\t(No symbol) [0x00F285D4]\n\t(No symbol) [0x00F3C9EB]\n\t(No symbol) [0x00F28386]\n\t(No symbol) [0x00F0163C]\n\t(No symbol) [0x00F0269D]\n\tGetHandleVerifier [0x012F9A22+2655074]\n\tGetHandleVerifier [0x012ECA24+2601828]\n\tGetHandleVerifier [0x01108C0A+619850]\n\tGetHandleVerifier [0x01107830+614768]\n\t(No symbol) [0x00FF05FC]\n\t(No symbol) [0x00FF5968]\n\t(No symbol) [0x00FF5A55]\n\t(No symbol) [0x0100051B]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]",
+      "time" : {
+        "start" : 1670119312350,
+        "stop" : 1670119312362,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "a8c0ed72f011f957",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/33/allure/#testresult/a8c0ed72f011f957",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/label[4]/div/div[1]/div[1]/i\"}\n  (Session info: chrome=108.0.5359.72)\nStacktrace:\nBacktrace:\n\t(No symbol) [0x0117F243]\n\t(No symbol) [0x01107FD1]\n\t(No symbol) [0x00FFD04D]\n\t(No symbol) [0x0102C0B0]\n\t(No symbol) [0x0102C22B]\n\t(No symbol) [0x0105E612]\n\t(No symbol) [0x010485D4]\n\t(No symbol) [0x0105C9EB]\n\t(No symbol) [0x01048386]\n\t(No symbol) [0x0102163C]\n\t(No symbol) [0x0102269D]\n\tGetHandleVerifier [0x01419A22+2655074]\n\tGetHandleVerifier [0x0140CA24+2601828]\n\tGetHandleVerifier [0x01228C0A+619850]\n\tGetHandleVerifier [0x01227830+614768]\n\t(No symbol) [0x011105FC]\n\t(No symbol) [0x01115968]\n\t(No symbol) [0x01115A55]\n\t(No symbol) [0x0112051B]\n\tBaseThreadInitThunk [0x7584FEF9+25]\n\tRtlGetAppContainerNamedObjectPath [0x76F27BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x76F27B8E+238]",
+      "time" : {
+        "start" : 1670032912177,
+        "stop" : 1670032912189,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "e5358c6cf997d88c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/32/allure/#testresult/e5358c6cf997d88c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669949370521,
+        "stop" : 1669949373781,
+        "duration" : 3260
+      }
+    }, {
+      "uid" : "f0d8b809afbfe4d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/31/allure/#testresult/f0d8b809afbfe4d",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948278794,
+        "stop" : 1669948278795,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8145d190fcd3470",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/30/allure/#testresult/8145d190fcd3470",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669948152870,
+        "stop" : 1669948152870,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4789ab087fc0a327",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/29/allure/#testresult/4789ab087fc0a327",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669946481734,
+        "stop" : 1669946481734,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6cf9a0debe966e5d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/28/allure/#testresult/6cf9a0debe966e5d",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1669891406398,
+        "stop" : 1669891406398,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4ad589477ace5213",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/27/allure/#testresult/4ad589477ace5213",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669860117940,
+        "stop" : 1669860121128,
+        "duration" : 3188
+      }
+    }, {
+      "uid" : "a0d16a8803937ce2",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/26/allure/#testresult/a0d16a8803937ce2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669779027643,
+        "stop" : 1669779030902,
+        "duration" : 3259
+      }
+    }, {
+      "uid" : "682a289801b65982",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/25/allure/#testresult/682a289801b65982",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669778766838,
+        "stop" : 1669778770182,
+        "duration" : 3344
+      }
+    }, {
+      "uid" : "7f2df0f27a021187",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/24/allure/#testresult/7f2df0f27a021187",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/label[4]/div/div[1]/div[1]/i\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669773709326,
+        "stop" : 1669773709337,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "c927d18814e496c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/23/allure/#testresult/c927d18814e496c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669687350156,
+        "stop" : 1669687353359,
+        "duration" : 3203
+      }
+    }, {
+      "uid" : "3803bda2fe6f7948",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/22/allure/#testresult/3803bda2fe6f7948",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669600959737,
+        "stop" : 1669600962952,
+        "duration" : 3215
+      }
+    }, {
+      "uid" : "529ec47672c6ea31",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/21/allure/#testresult/529ec47672c6ea31",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/label[4]/div/div[1]/div[1]/i\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669514540479,
+        "stop" : 1669514540490,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "2724d3b968d0e5bc",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/20/allure/#testresult/2724d3b968d0e5bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669428148527,
+        "stop" : 1669428151763,
+        "duration" : 3236
+      }
+    }, {
+      "uid" : "f0ad0b6ed7e41ef6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/19/allure/#testresult/f0ad0b6ed7e41ef6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669368020991,
+        "stop" : 1669368024238,
+        "duration" : 3247
+      }
+    }, {
+      "uid" : "8d66dcf4ba2f9b9f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/18/allure/#testresult/8d66dcf4ba2f9b9f",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/div/div/main/div/div[2]/div/div/div/form/label[4]/div/div[1]/div[1]/i\"}\n  (Session info: chrome=107.0.5304.107)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00ED1ED3+2236115]\n\tOrdinal0 [0x00E692F1+1807089]\n\tOrdinal0 [0x00D766FD+812797]\n\tOrdinal0 [0x00DA55DF+1005023]\n\tOrdinal0 [0x00DA57CB+1005515]\n\tOrdinal0 [0x00DD7632+1209906]\n\tOrdinal0 [0x00DC1AD4+1120980]\n\tOrdinal0 [0x00DD59E2+1202658]\n\tOrdinal0 [0x00DC18A6+1120422]\n\tOrdinal0 [0x00D9A73D+960317]\n\tOrdinal0 [0x00D9B71F+964383]\n\tGetHandleVerifier [0x0117E7E2+2743074]\n\tGetHandleVerifier [0x011708D4+2685972]\n\tGetHandleVerifier [0x00F62BAA+532202]\n\tGetHandleVerifier [0x00F61990+527568]\n\tOrdinal0 [0x00E7080C+1837068]\n\tOrdinal0 [0x00E74CD8+1854680]\n\tOrdinal0 [0x00E74DC5+1854917]\n\tOrdinal0 [0x00E7ED64+1895780]\n\tBaseThreadInitThunk [0x7708FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77A77BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77A77B8E+238]",
+      "time" : {
+        "start" : 1669341744206,
+        "stop" : 1669341744217,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "85d4a61520151b9a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Login_Selenium/17/allure/#testresult/85d4a61520151b9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669255379767,
+        "stop" : 1669255383037,
+        "duration" : 3270
+      }
+    } ]
+  }
+}

@@ -1,0 +1,111 @@
+[ {
+  "uid" : "206530d1e7605848",
+  "name" : "test_messgaeConfirm",
+  "time" : {
+    "start" : 1670207271825,
+    "stop" : 1670207286037,
+    "duration" : 14212
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a025c85b3dcdc4b",
+  "name" : "test_deleteProfile",
+  "time" : {
+    "start" : 1670207301011,
+    "stop" : 1670207301020,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "269e4daad5fa1dd8",
+  "name" : "test_deleteAccount",
+  "time" : {
+    "start" : 1670207300990,
+    "stop" : 1670207300997,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76d1cfd7866714f5",
+  "name" : "test_set_up_test",
+  "time" : {
+    "start" : 1669861624596,
+    "stop" : 1669861646219,
+    "duration" : 21623
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "740c2e4f5bfd549b",
+  "name" : "更改寬鬆/一般註冊",
+  "time" : {
+    "start" : 1670207246890,
+    "stop" : 1670207246901,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d22f924a9c7ec4dc",
+  "name" : "test_prfile",
+  "time" : {
+    "start" : 1670207286048,
+    "stop" : 1670207300958,
+    "duration" : 14910
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7ac0b6483eb5119",
+  "name" : "test_running_test",
+  "time" : {
+    "start" : 1670207246921,
+    "stop" : 1670207259693,
+    "duration" : 12772
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7cf9fb0a0b56048",
+  "name" : "test_input",
+  "time" : {
+    "start" : 1670207259698,
+    "stop" : 1670207260410,
+    "duration" : 712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2839dd5511566368",
+  "name" : "test_vertify",
+  "time" : {
+    "start" : 1670207260417,
+    "stop" : 1670207271808,
+    "duration" : 11391
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce966ec22b3c0e82",
+  "name" : "test_deleteMember",
+  "time" : {
+    "start" : 1670207300966,
+    "stop" : 1670207300981,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c674ffe9b1f391c",
+  "name" : "test_deleteETProfile",
+  "time" : {
+    "start" : 1670207301033,
+    "stop" : 1670207301055,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

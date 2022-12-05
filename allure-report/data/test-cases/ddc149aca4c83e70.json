@@ -1,0 +1,67 @@
+{
+  "uid" : "ddc149aca4c83e70",
+  "name" : "test_running_test",
+  "fullName" : "app_test#test_running_test",
+  "historyId" : "37e2e867df4d816d3f0af45042b7e416",
+  "time" : {
+    "start" : 1669713638469,
+    "stop" : 1669713651538,
+    "duration" : 13069
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b30868b47089ab2b",
+      "name" : "確認進入SSO登入頁",
+      "source" : "b30868b47089ab2b.png",
+      "type" : "image/png",
+      "size" : 57683
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "suite",
+    "value" : "app_test"
+  }, {
+    "name" : "host",
+    "value" : "C010700042"
+  }, {
+    "name" : "thread",
+    "value" : "8704-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "app_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "ddc149aca4c83e70.json",
+  "parameterValues" : [ ]
+}

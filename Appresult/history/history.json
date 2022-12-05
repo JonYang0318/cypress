@@ -1,0 +1,1618 @@
+{
+  "6740ef498de4c5eaef418ba447c9b3f2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "aa133965c800ccfd",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/aa133965c800ccfd",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1670120870918,
+        "stop" : 1670120870962,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "5b783eb41322f277",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/5b783eb41322f277",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670084891189,
+        "stop" : 1670084905964,
+        "duration" : 14775
+      }
+    }, {
+      "uid" : "acc09586abf91b11",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/acc09586abf91b11",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1670034471494,
+        "stop" : 1670034471537,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "fae3032a2b30ace6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/fae3032a2b30ace6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948080779,
+        "stop" : 1669948096110,
+        "duration" : 15331
+      }
+    }, {
+      "uid" : "6b72c8c84384b7c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/6b72c8c84384b7c",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669914412151,
+        "stop" : 1669914412210,
+        "duration" : 59
+      }
+    }, {
+      "uid" : "26dab634556a0c1f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/26dab634556a0c1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861683355,
+        "stop" : 1669861696688,
+        "duration" : 13333
+      }
+    }, {
+      "uid" : "e7f87cdb4201da3",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/e7f87cdb4201da3",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669780523697,
+        "stop" : 1669780532336,
+        "duration" : 8639
+      }
+    }, {
+      "uid" : "a692244288b51288",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/a692244288b51288",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669780395131,
+        "stop" : 1669780395177,
+        "duration" : 46
+      }
+    }, {
+      "uid" : "d7e413f4381d88ba",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/d7e413f4381d88ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775281918,
+        "stop" : 1669775295216,
+        "duration" : 13298
+      }
+    }, {
+      "uid" : "760043e0b5240ca2",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/760043e0b5240ca2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713959372,
+        "stop" : 1669713972738,
+        "duration" : 13366
+      }
+    }, {
+      "uid" : "b40158ab4648808d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/b40158ab4648808d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713730804,
+        "stop" : 1669713731175,
+        "duration" : 371
+      }
+    }, {
+      "uid" : "7863143c7718d50d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/7863143c7718d50d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713664897,
+        "stop" : 1669713665076,
+        "duration" : 179
+      }
+    }, {
+      "uid" : "5bbfaf9254f1f565",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/5bbfaf9254f1f565",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713601577,
+        "stop" : 1669713601871,
+        "duration" : 294
+      }
+    }, {
+      "uid" : "f61fd80a25c93eda",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/f61fd80a25c93eda",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713352171,
+        "stop" : 1669713352374,
+        "duration" : 203
+      }
+    }, {
+      "uid" : "892afc692ba9d5d9",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure/#testresult/892afc692ba9d5d9",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713352171,
+        "stop" : 1669713352374,
+        "duration" : 203
+      }
+    } ]
+  },
+  "abb1992a08f95bd3cda8a4d739d0f61e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "332790f356310546",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/332790f356310546",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670120855114,
+        "stop" : 1670120866168,
+        "duration" : 11054
+      }
+    }, {
+      "uid" : "98dcde0efdeeb533",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/98dcde0efdeeb533",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670084864921,
+        "stop" : 1670084876468,
+        "duration" : 11547
+      }
+    }, {
+      "uid" : "7c08f89390b7c5b8",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/7c08f89390b7c5b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670034455647,
+        "stop" : 1670034466700,
+        "duration" : 11053
+      }
+    }, {
+      "uid" : "dda64eb20e71e5b5",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/dda64eb20e71e5b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948057886,
+        "stop" : 1669948066315,
+        "duration" : 8429
+      }
+    }, {
+      "uid" : "b81b1e5f74c83c2a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/b81b1e5f74c83c2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669914399493,
+        "stop" : 1669914407622,
+        "duration" : 8129
+      }
+    }, {
+      "uid" : "c86a68a0e46b8354",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/c86a68a0e46b8354",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861660513,
+        "stop" : 1669861668950,
+        "duration" : 8437
+      }
+    }, {
+      "uid" : "5b47fe8b883d9b28",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/5b47fe8b883d9b28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780500807,
+        "stop" : 1669780509461,
+        "duration" : 8654
+      }
+    }, {
+      "uid" : "29d5718282cd05dd",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/29d5718282cd05dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780382184,
+        "stop" : 1669780390676,
+        "duration" : 8492
+      }
+    }, {
+      "uid" : "844264ceb968294d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/844264ceb968294d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775259253,
+        "stop" : 1669775267847,
+        "duration" : 8594
+      }
+    }, {
+      "uid" : "d299241b694ca4a6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/d299241b694ca4a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713936587,
+        "stop" : 1669713945125,
+        "duration" : 8538
+      }
+    }, {
+      "uid" : "9d8ee1731be84538",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/9d8ee1731be84538",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713717040,
+        "stop" : 1669713725754,
+        "duration" : 8714
+      }
+    }, {
+      "uid" : "23a435b3f2c83f3a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/23a435b3f2c83f3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713652274,
+        "stop" : 1669713660340,
+        "duration" : 8066
+      }
+    }, {
+      "uid" : "8385af0182cce4ac",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/8385af0182cce4ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713588899,
+        "stop" : 1669713596971,
+        "duration" : 8072
+      }
+    }, {
+      "uid" : "50863ab36da18d20",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/50863ab36da18d20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713339655,
+        "stop" : 1669713347710,
+        "duration" : 8055
+      }
+    }, {
+      "uid" : "844e5967d219e07e",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure/#testresult/844e5967d219e07e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713339655,
+        "stop" : 1669713347710,
+        "duration" : 8055
+      }
+    } ]
+  },
+  "c3e537966a6b6fbf832b93678a0f61b1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "3248043d7874e8c9",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/3248043d7874e8c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861624596,
+        "stop" : 1669861646219,
+        "duration" : 21623
+      }
+    }, {
+      "uid" : "14f63b5ac40ce90d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/14f63b5ac40ce90d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861624596,
+        "stop" : 1669861646219,
+        "duration" : 21623
+      }
+    }, {
+      "uid" : "d5c241214e63c258",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/d5c241214e63c258",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861624596,
+        "stop" : 1669861646219,
+        "duration" : 21623
+      }
+    }, {
+      "uid" : "ea295b15ad7c05f9",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/ea295b15ad7c05f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861624596,
+        "stop" : 1669861646219,
+        "duration" : 21623
+      }
+    }, {
+      "uid" : "25c12d41ca32b965",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/25c12d41ca32b965",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861624596,
+        "stop" : 1669861646219,
+        "duration" : 21623
+      }
+    }, {
+      "uid" : "d0f56917bf7f5b3e",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/d0f56917bf7f5b3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861624596,
+        "stop" : 1669861646219,
+        "duration" : 21623
+      }
+    }, {
+      "uid" : "16477e62bf6c80fb",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/16477e62bf6c80fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780464153,
+        "stop" : 1669780486238,
+        "duration" : 22085
+      }
+    }, {
+      "uid" : "ff8cebf82e4da0c6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/ff8cebf82e4da0c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780347085,
+        "stop" : 1669780368266,
+        "duration" : 21181
+      }
+    }, {
+      "uid" : "46cedf72f38118e2",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/46cedf72f38118e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775226295,
+        "stop" : 1669775245637,
+        "duration" : 19342
+      }
+    }, {
+      "uid" : "82d5173743152ef3",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/82d5173743152ef3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713904276,
+        "stop" : 1669713923349,
+        "duration" : 19073
+      }
+    }, {
+      "uid" : "aec46fd1378578d6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/aec46fd1378578d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713682985,
+        "stop" : 1669713702283,
+        "duration" : 19298
+      }
+    }, {
+      "uid" : "214b1ea2f787cbc0",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/214b1ea2f787cbc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713618768,
+        "stop" : 1669713638458,
+        "duration" : 19690
+      }
+    }, {
+      "uid" : "bd982d90b1c18061",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/bd982d90b1c18061",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713554611,
+        "stop" : 1669713575141,
+        "duration" : 20530
+      }
+    }, {
+      "uid" : "89d02b9c66a71e14",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/89d02b9c66a71e14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713461151,
+        "stop" : 1669713480836,
+        "duration" : 19685
+      }
+    }, {
+      "uid" : "4f23769c127fc491",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure/#testresult/4f23769c127fc491",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713303321,
+        "stop" : 1669713325612,
+        "duration" : 22291
+      }
+    } ]
+  },
+  "412d2786c2983bc5a3ef50d9b07c2d40" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "8f026670b2946022",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/8f026670b2946022",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670120854406,
+        "stop" : 1670120855107,
+        "duration" : 701
+      }
+    }, {
+      "uid" : "eb2906270b8d8793",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/eb2906270b8d8793",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670084864238,
+        "stop" : 1670084864914,
+        "duration" : 676
+      }
+    }, {
+      "uid" : "15a8b7ca75bff791",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/15a8b7ca75bff791",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670034454952,
+        "stop" : 1670034455640,
+        "duration" : 688
+      }
+    }, {
+      "uid" : "12c9205eef1d4ace",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/12c9205eef1d4ace",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948057167,
+        "stop" : 1669948057873,
+        "duration" : 706
+      }
+    }, {
+      "uid" : "2ee88c96f80ddf24",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/2ee88c96f80ddf24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669914398797,
+        "stop" : 1669914399487,
+        "duration" : 690
+      }
+    }, {
+      "uid" : "69b3af3abad38804",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/69b3af3abad38804",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861659817,
+        "stop" : 1669861660507,
+        "duration" : 690
+      }
+    }, {
+      "uid" : "629bdf7948081dac",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/629bdf7948081dac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780499648,
+        "stop" : 1669780500799,
+        "duration" : 1151
+      }
+    }, {
+      "uid" : "511efbf78f57f494",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/511efbf78f57f494",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780381464,
+        "stop" : 1669780382177,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "ef42ba3ae7a35ad5",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/ef42ba3ae7a35ad5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775258544,
+        "stop" : 1669775259246,
+        "duration" : 702
+      }
+    }, {
+      "uid" : "5cf030f193c71c40",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/5cf030f193c71c40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713935866,
+        "stop" : 1669713936580,
+        "duration" : 714
+      }
+    }, {
+      "uid" : "1ee8d041a244fda5",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/1ee8d041a244fda5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713716304,
+        "stop" : 1669713717033,
+        "duration" : 729
+      }
+    }, {
+      "uid" : "6e07ad08055e2c3f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/6e07ad08055e2c3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713651549,
+        "stop" : 1669713652268,
+        "duration" : 719
+      }
+    }, {
+      "uid" : "b1ddc476cd099d42",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/b1ddc476cd099d42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713588145,
+        "stop" : 1669713588891,
+        "duration" : 746
+      }
+    }, {
+      "uid" : "6c57c42c8c751b2",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/6c57c42c8c751b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713494715,
+        "stop" : 1669713495443,
+        "duration" : 728
+      }
+    }, {
+      "uid" : "bd6665d7b78ef4ec",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure/#testresult/bd6665d7b78ef4ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713338902,
+        "stop" : 1669713339649,
+        "duration" : 747
+      }
+    } ]
+  },
+  "504e5dc7612fc2fc6ac9d29090dbdc65" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "42830cd1cde3b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/42830cd1cde3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670120871003,
+        "stop" : 1670120871011,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "3ab1dcfcd4ec46c5",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/3ab1dcfcd4ec46c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670084905971,
+        "stop" : 1670084905989,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "579bba414ed933ea",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/579bba414ed933ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670034471578,
+        "stop" : 1670034471594,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "96d7fa42d7ab876",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/96d7fa42d7ab876",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948096120,
+        "stop" : 1669948096132,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "562c43680a8f2b2d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/562c43680a8f2b2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669914412256,
+        "stop" : 1669914412278,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "200996ee21dcae27",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/200996ee21dcae27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861696694,
+        "stop" : 1669861696712,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "33d64a2bf57742cd",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/33d64a2bf57742cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780532673,
+        "stop" : 1669780532704,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "4f54a06ce7fe5339",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/4f54a06ce7fe5339",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780395220,
+        "stop" : 1669780395286,
+        "duration" : 66
+      }
+    }, {
+      "uid" : "9be97683330d4dda",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/9be97683330d4dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775295224,
+        "stop" : 1669775295235,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "e4de0c0cc2fc0369",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/e4de0c0cc2fc0369",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713972745,
+        "stop" : 1669713972764,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "9a42c6b1d674cb55",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/9a42c6b1d674cb55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713731223,
+        "stop" : 1669713731249,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "1676905ebe6e7ff7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/1676905ebe6e7ff7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713665119,
+        "stop" : 1669713665132,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "4c7d28494efda225",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/4c7d28494efda225",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713601921,
+        "stop" : 1669713601937,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "6ec39f7226a8a1a3",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/6ec39f7226a8a1a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713352419,
+        "stop" : 1669713352435,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "c5c9207eb4e16f46",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure/#testresult/c5c9207eb4e16f46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713352419,
+        "stop" : 1669713352435,
+        "duration" : 16
+      }
+    } ]
+  },
+  "83378d32c3874f5ce70f2dd9f3f25b43" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "acc121180f1004d0",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/acc121180f1004d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670120871018,
+        "stop" : 1670120871025,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "600dffd0a3dbf248",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/600dffd0a3dbf248",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670084906006,
+        "stop" : 1670084906017,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "1e42040ec2ab1fc4",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/1e42040ec2ab1fc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670034471600,
+        "stop" : 1670034471607,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "b2480747f55a992c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/b2480747f55a992c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948096141,
+        "stop" : 1669948096162,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "993f125998caca32",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/993f125998caca32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669914412286,
+        "stop" : 1669914412320,
+        "duration" : 34
+      }
+    }, {
+      "uid" : "818b233ec36309b0",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/818b233ec36309b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861696724,
+        "stop" : 1669861696741,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "76cf1b2c10b576df",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/76cf1b2c10b576df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780532711,
+        "stop" : 1669780532753,
+        "duration" : 42
+      }
+    }, {
+      "uid" : "7c58cb5abcd24155",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/7c58cb5abcd24155",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780395294,
+        "stop" : 1669780395356,
+        "duration" : 62
+      }
+    }, {
+      "uid" : "4d00c48c2dab8e25",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/4d00c48c2dab8e25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775295246,
+        "stop" : 1669775295261,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "52bb1ef8521891ea",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/52bb1ef8521891ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713972774,
+        "stop" : 1669713972795,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "f6a81a86721d206b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/f6a81a86721d206b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713731256,
+        "stop" : 1669713731283,
+        "duration" : 27
+      }
+    }, {
+      "uid" : "977966179cb34801",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/977966179cb34801",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713665140,
+        "stop" : 1669713665153,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "eb8db6587e4cff9",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/eb8db6587e4cff9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713601962,
+        "stop" : 1669713601982,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "b1c597b3bda83d0",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/b1c597b3bda83d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713352442,
+        "stop" : 1669713352450,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "bb11c478d0a5a46",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure/#testresult/bb11c478d0a5a46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713352442,
+        "stop" : 1669713352450,
+        "duration" : 8
+      }
+    } ]
+  },
+  "37e2e867df4d816d3f0af45042b7e416" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "e82df20296eaf78a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/e82df20296eaf78a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670120841890,
+        "stop" : 1670120854388,
+        "duration" : 12498
+      }
+    }, {
+      "uid" : "fc8288b7598ee774",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/fc8288b7598ee774",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670084851220,
+        "stop" : 1670084864231,
+        "duration" : 13011
+      }
+    }, {
+      "uid" : "62b2493d6ff25e78",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/62b2493d6ff25e78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670034442185,
+        "stop" : 1670034454945,
+        "duration" : 12760
+      }
+    }, {
+      "uid" : "d39a39b8d3fe2165",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/d39a39b8d3fe2165",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948044614,
+        "stop" : 1669948057162,
+        "duration" : 12548
+      }
+    }, {
+      "uid" : "60206c5014a4d56a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/60206c5014a4d56a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669914386022,
+        "stop" : 1669914398783,
+        "duration" : 12761
+      }
+    }, {
+      "uid" : "7bade3b40240f200",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/7bade3b40240f200",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861646240,
+        "stop" : 1669861659812,
+        "duration" : 13572
+      }
+    }, {
+      "uid" : "9f28191bfcb16f79",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/9f28191bfcb16f79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780486250,
+        "stop" : 1669780499642,
+        "duration" : 13392
+      }
+    }, {
+      "uid" : "e79699796f4a2223",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/e79699796f4a2223",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780368281,
+        "stop" : 1669780381453,
+        "duration" : 13172
+      }
+    }, {
+      "uid" : "ebf9e04501937095",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/ebf9e04501937095",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775245656,
+        "stop" : 1669775258539,
+        "duration" : 12883
+      }
+    }, {
+      "uid" : "b253cdeff25ff2e4",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/b253cdeff25ff2e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713923360,
+        "stop" : 1669713935862,
+        "duration" : 12502
+      }
+    }, {
+      "uid" : "36ca70ba5a46d88e",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/36ca70ba5a46d88e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713702295,
+        "stop" : 1669713716298,
+        "duration" : 14003
+      }
+    }, {
+      "uid" : "a8d9cf1aa93b67a3",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/a8d9cf1aa93b67a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713638469,
+        "stop" : 1669713651538,
+        "duration" : 13069
+      }
+    }, {
+      "uid" : "2f306f8a98e68b07",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/2f306f8a98e68b07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713575153,
+        "stop" : 1669713588139,
+        "duration" : 12986
+      }
+    }, {
+      "uid" : "352069b1c0807bd2",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/352069b1c0807bd2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713480847,
+        "stop" : 1669713494708,
+        "duration" : 13861
+      }
+    }, {
+      "uid" : "c038085f1651a668",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure/#testresult/c038085f1651a668",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713325624,
+        "stop" : 1669713338895,
+        "duration" : 13271
+      }
+    } ]
+  },
+  "34f084b33a33c821c8ee6be62ba4c312" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 14
+    },
+    "items" : [ {
+      "uid" : "2092124ef4141bc6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/2092124ef4141bc6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670120841858,
+        "stop" : 1670120841875,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "788b9e03d344ad6c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/788b9e03d344ad6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670084851190,
+        "stop" : 1670084851203,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "cddbd5d4abe1e558",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/cddbd5d4abe1e558",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670034442154,
+        "stop" : 1670034442169,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "146c185330fb9009",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/146c185330fb9009",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948044585,
+        "stop" : 1669948044595,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "807a97be82508a0",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/807a97be82508a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669914385884,
+        "stop" : 1669914386013,
+        "duration" : 129
+      }
+    }, {
+      "uid" : "5a285ac5e03fa99",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/5a285ac5e03fa99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861624487,
+        "stop" : 1669861624590,
+        "duration" : 103
+      }
+    }, {
+      "uid" : "ca370d02ecab0f7f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/ca370d02ecab0f7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780464120,
+        "stop" : 1669780464145,
+        "duration" : 25
+      }
+    }, {
+      "uid" : "63fcc4607b6c1f94",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/63fcc4607b6c1f94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780347049,
+        "stop" : 1669780347078,
+        "duration" : 29
+      }
+    }, {
+      "uid" : "6ac6c116aece9aab",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/6ac6c116aece9aab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775226275,
+        "stop" : 1669775226290,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "67feb0e6248267e4",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/67feb0e6248267e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713904260,
+        "stop" : 1669713904272,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "8918286f4b9b616b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/8918286f4b9b616b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713618643,
+        "stop" : 1669713618761,
+        "duration" : 118
+      }
+    }, {
+      "uid" : "82f4d94faccd4cb9",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/82f4d94faccd4cb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713618643,
+        "stop" : 1669713618761,
+        "duration" : 118
+      }
+    }, {
+      "uid" : "1b64a1bba906a4b8",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/1b64a1bba906a4b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713554540,
+        "stop" : 1669713554606,
+        "duration" : 66
+      }
+    }, {
+      "uid" : "5f44a57738220fed",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/5f44a57738220fed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713461102,
+        "stop" : 1669713461140,
+        "duration" : 38
+      }
+    } ]
+  },
+  "78224a21fa4826a7a2df75e93a1eb4bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 9,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "b1f067229eb2cc7f",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/b1f067229eb2cc7f",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1670120866193,
+        "stop" : 1670120870617,
+        "duration" : 4424
+      }
+    }, {
+      "uid" : "1b8f8635e68e091d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/1b8f8635e68e091d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670084876493,
+        "stop" : 1670084891164,
+        "duration" : 14671
+      }
+    }, {
+      "uid" : "1aa0fb10b9f0cf55",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/1aa0fb10b9f0cf55",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1670034466713,
+        "stop" : 1670034471202,
+        "duration" : 4489
+      }
+    }, {
+      "uid" : "d42607f4057406cd",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/d42607f4057406cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948066326,
+        "stop" : 1669948080768,
+        "duration" : 14442
+      }
+    }, {
+      "uid" : "a8cb3c4d1aaac0d1",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/a8cb3c4d1aaac0d1",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669914407648,
+        "stop" : 1669914411763,
+        "duration" : 4115
+      }
+    }, {
+      "uid" : "aa0956cf954d073d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/aa0956cf954d073d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861668964,
+        "stop" : 1669861683343,
+        "duration" : 14379
+      }
+    }, {
+      "uid" : "ab2375ed1ec0f8e2",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/ab2375ed1ec0f8e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780509476,
+        "stop" : 1669780523684,
+        "duration" : 14208
+      }
+    }, {
+      "uid" : "9bb875ad555b6ef9",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/9bb875ad555b6ef9",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669780390686,
+        "stop" : 1669780394755,
+        "duration" : 4069
+      }
+    }, {
+      "uid" : "d52de1d1c0567807",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/d52de1d1c0567807",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775267979,
+        "stop" : 1669775281909,
+        "duration" : 13930
+      }
+    }, {
+      "uid" : "2d98b501e7f91aa",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/2d98b501e7f91aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713945152,
+        "stop" : 1669713959361,
+        "duration" : 14209
+      }
+    }, {
+      "uid" : "a6d0356aac9e54a6",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/a6d0356aac9e54a6",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713725772,
+        "stop" : 1669713730365,
+        "duration" : 4593
+      }
+    }, {
+      "uid" : "904bd4fa653f469d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/904bd4fa653f469d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713660350,
+        "stop" : 1669713664485,
+        "duration" : 4135
+      }
+    }, {
+      "uid" : "c34103a0d24e168d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/c34103a0d24e168d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713596986,
+        "stop" : 1669713601145,
+        "duration" : 4159
+      }
+    }, {
+      "uid" : "c9e1de2248e0429d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/c9e1de2248e0429d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713347721,
+        "stop" : 1669713351806,
+        "duration" : 4085
+      }
+    }, {
+      "uid" : "c1c31b12b6072564",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure/#testresult/c1c31b12b6072564",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.\nStacktrace:\nNoSuchElementError: An element could not be located on the page using the given search parameters.\n    at AndroidUiautomator2Driver.findElOrEls (C:\\Users\\TPP07026\\AppData\\Local\\Programs\\Appium\\resources\\app\\node_modules\\appium\\node_modules\\appium-android-driver\\lib\\commands\\find.js:75:11)",
+      "time" : {
+        "start" : 1669713347721,
+        "stop" : 1669713351806,
+        "duration" : 4085
+      }
+    } ]
+  },
+  "5d8054fc5545f72e64c1fcf2f4d51a87" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "ede43dbd98a0f29d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/ede43dbd98a0f29d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670120871035,
+        "stop" : 1670120871041,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "f61c5784703435ae",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/f61c5784703435ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670084906027,
+        "stop" : 1670084906036,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "188f27f5e173c006",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/188f27f5e173c006",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670034471617,
+        "stop" : 1670034471626,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "357ce600fea2e2e7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/357ce600fea2e2e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948096177,
+        "stop" : 1669948096191,
+        "duration" : 14
+      }
+    }, {
+      "uid" : "5462ff314cb0ac9d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/5462ff314cb0ac9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669914412330,
+        "stop" : 1669914412369,
+        "duration" : 39
+      }
+    }, {
+      "uid" : "f5c236f7b8817b0c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/f5c236f7b8817b0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861696758,
+        "stop" : 1669861696776,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "58d6279ff226210b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/58d6279ff226210b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780532763,
+        "stop" : 1669780532809,
+        "duration" : 46
+      }
+    }, {
+      "uid" : "9192c1d7e39f0bc5",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/9192c1d7e39f0bc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780395366,
+        "stop" : 1669780395383,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "39acfc485adc2e02",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/39acfc485adc2e02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775295275,
+        "stop" : 1669775295296,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "22dd3d5f73671ef9",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/22dd3d5f73671ef9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713972815,
+        "stop" : 1669713972834,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "79e411e3a48da655",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/79e411e3a48da655",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713731302,
+        "stop" : 1669713731316,
+        "duration" : 14
+      }
+    }, {
+      "uid" : "3bdf535fd10636a8",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/3bdf535fd10636a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713665166,
+        "stop" : 1669713665177,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "175658f8831b2d39",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/175658f8831b2d39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713601995,
+        "stop" : 1669713602007,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "dc25a76d91ea8eb7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/dc25a76d91ea8eb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713352461,
+        "stop" : 1669713352468,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "69b0d499cd9c64c7",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure/#testresult/69b0d499cd9c64c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713352461,
+        "stop" : 1669713352468,
+        "duration" : 7
+      }
+    } ]
+  },
+  "f4746065200c0d336922cbc29e2f9346" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "76227628acd1623d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/76227628acd1623d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670120871051,
+        "stop" : 1670120871060,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "d845be91d5615db8",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/d845be91d5615db8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670084906050,
+        "stop" : 1670084906063,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "d4f1f562e9b3c18c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/d4f1f562e9b3c18c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670034471636,
+        "stop" : 1670034471642,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "4908a14d5b7fc480",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/4908a14d5b7fc480",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948096207,
+        "stop" : 1669948096222,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "52e524ec883b3672",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/52e524ec883b3672",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669914412377,
+        "stop" : 1669914412408,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "660652ca1309868b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/660652ca1309868b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861696788,
+        "stop" : 1669861696803,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "859ff49bb62e2450",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/859ff49bb62e2450",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780532818,
+        "stop" : 1669780532865,
+        "duration" : 47
+      }
+    }, {
+      "uid" : "db2e7d7410c5b7fb",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/db2e7d7410c5b7fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780395394,
+        "stop" : 1669780395410,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "ab410e3324e93baa",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/ab410e3324e93baa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775295311,
+        "stop" : 1669775295324,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "1f8566f7653f6a7d",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/1f8566f7653f6a7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713972849,
+        "stop" : 1669713972857,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "168e256a9fd7f41c",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/168e256a9fd7f41c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713731330,
+        "stop" : 1669713731343,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "61e5724f04f1375b",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/61e5724f04f1375b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713665188,
+        "stop" : 1669713665198,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "e15bdad65de9758a",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/e15bdad65de9758a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713602020,
+        "stop" : 1669713602033,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "7732c27731115633",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/7732c27731115633",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713352479,
+        "stop" : 1669713352497,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "844e269f51d99b40",
+      "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure/#testresult/844e269f51d99b40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713352479,
+        "stop" : 1669713352497,
+        "duration" : 18
+      }
+    } ]
+  }
+}

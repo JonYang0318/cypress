@@ -1,0 +1,365 @@
+{
+  "uid" : "c7cf9fb0a0b56048",
+  "name" : "test_input",
+  "fullName" : "app_test#test_input",
+  "historyId" : "412d2786c2983bc5a3ef50d9b07c2d40",
+  "time" : {
+    "start" : 1670207259698,
+    "stop" : 1670207260410,
+    "duration" : 712
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_module_fixture_app_test",
+    "time" : {
+      "start" : 1670207225153,
+      "stop" : 1670207246883,
+      "duration" : 21730
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4c5e2d0fac42418c",
+      "name" : "輸入電話號碼",
+      "source" : "4c5e2d0fac42418c.png",
+      "type" : "image/png",
+      "size" : 45941
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_module_fixture_app_test::0",
+    "time" : {
+      "start" : 1670207301056,
+      "stop" : 1670207301056,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "suite",
+    "value" : "app_test"
+  }, {
+    "name" : "host",
+    "value" : "C010700042"
+  }, {
+    "name" : "thread",
+    "value" : "26124-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "app_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e0286414096e04d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670120854406,
+        "stop" : 1670120855107,
+        "duration" : 701
+      }
+    }, {
+      "uid" : "755a72341f4edd32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670084864238,
+        "stop" : 1670084864914,
+        "duration" : 676
+      }
+    }, {
+      "uid" : "39919ff861232467",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670034454952,
+        "stop" : 1670034455640,
+        "duration" : 688
+      }
+    }, {
+      "uid" : "ed897b0110609b7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948057167,
+        "stop" : 1669948057873,
+        "duration" : 706
+      }
+    }, {
+      "uid" : "e0ffc84eb4103e26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669914398797,
+        "stop" : 1669914399487,
+        "duration" : 690
+      }
+    }, {
+      "uid" : "a6cbbcdcdfd4bde0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861659817,
+        "stop" : 1669861660507,
+        "duration" : 690
+      }
+    }, {
+      "uid" : "baed297d1c72f97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780499648,
+        "stop" : 1669780500799,
+        "duration" : 1151
+      }
+    }, {
+      "uid" : "aa840f68fafa29b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780381464,
+        "stop" : 1669780382177,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "c8f7d2cbe70df71f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775258544,
+        "stop" : 1669775259246,
+        "duration" : 702
+      }
+    }, {
+      "uid" : "f4840fb0d3d5d279",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713935866,
+        "stop" : 1669713936580,
+        "duration" : 714
+      }
+    }, {
+      "uid" : "1003ae6739dcf6c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713716304,
+        "stop" : 1669713717033,
+        "duration" : 729
+      }
+    }, {
+      "uid" : "4bbfd820591b3465",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713651549,
+        "stop" : 1669713652268,
+        "duration" : 719
+      }
+    }, {
+      "uid" : "361a5549816f20dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713588145,
+        "stop" : 1669713588891,
+        "duration" : 746
+      }
+    }, {
+      "uid" : "ed17c7b8538d165b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713494715,
+        "stop" : 1669713495443,
+        "duration" : 728
+      }
+    }, {
+      "uid" : "655bf23008907027",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713338902,
+        "stop" : 1669713339649,
+        "duration" : 747
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 16,
+        "unknown" : 0,
+        "total" : 16
+      },
+      "items" : [ {
+        "uid" : "8f026670b2946022",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/8f026670b2946022",
+        "status" : "passed",
+        "time" : {
+          "start" : 1670120854406,
+          "stop" : 1670120855107,
+          "duration" : 701
+        }
+      }, {
+        "uid" : "eb2906270b8d8793",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/eb2906270b8d8793",
+        "status" : "passed",
+        "time" : {
+          "start" : 1670084864238,
+          "stop" : 1670084864914,
+          "duration" : 676
+        }
+      }, {
+        "uid" : "15a8b7ca75bff791",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/15a8b7ca75bff791",
+        "status" : "passed",
+        "time" : {
+          "start" : 1670034454952,
+          "stop" : 1670034455640,
+          "duration" : 688
+        }
+      }, {
+        "uid" : "12c9205eef1d4ace",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/12c9205eef1d4ace",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669948057167,
+          "stop" : 1669948057873,
+          "duration" : 706
+        }
+      }, {
+        "uid" : "2ee88c96f80ddf24",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/2ee88c96f80ddf24",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669914398797,
+          "stop" : 1669914399487,
+          "duration" : 690
+        }
+      }, {
+        "uid" : "69b3af3abad38804",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/69b3af3abad38804",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669861659817,
+          "stop" : 1669861660507,
+          "duration" : 690
+        }
+      }, {
+        "uid" : "629bdf7948081dac",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/629bdf7948081dac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669780499648,
+          "stop" : 1669780500799,
+          "duration" : 1151
+        }
+      }, {
+        "uid" : "511efbf78f57f494",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/511efbf78f57f494",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669780381464,
+          "stop" : 1669780382177,
+          "duration" : 713
+        }
+      }, {
+        "uid" : "ef42ba3ae7a35ad5",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/ef42ba3ae7a35ad5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669775258544,
+          "stop" : 1669775259246,
+          "duration" : 702
+        }
+      }, {
+        "uid" : "5cf030f193c71c40",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/5cf030f193c71c40",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669713935866,
+          "stop" : 1669713936580,
+          "duration" : 714
+        }
+      }, {
+        "uid" : "1ee8d041a244fda5",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/1ee8d041a244fda5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669713716304,
+          "stop" : 1669713717033,
+          "duration" : 729
+        }
+      }, {
+        "uid" : "6e07ad08055e2c3f",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/6e07ad08055e2c3f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669713651549,
+          "stop" : 1669713652268,
+          "duration" : 719
+        }
+      }, {
+        "uid" : "b1ddc476cd099d42",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/b1ddc476cd099d42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669713588145,
+          "stop" : 1669713588891,
+          "duration" : 746
+        }
+      }, {
+        "uid" : "6c57c42c8c751b2",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/6c57c42c8c751b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669713494715,
+          "stop" : 1669713495443,
+          "duration" : 728
+        }
+      }, {
+        "uid" : "bd6665d7b78ef4ec",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure/#testresult/bd6665d7b78ef4ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669713338902,
+          "stop" : 1669713339649,
+          "duration" : 747
+        }
+      } ]
+    },
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "c7cf9fb0a0b56048.json",
+  "parameterValues" : [ ]
+}

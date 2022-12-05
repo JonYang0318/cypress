@@ -1,0 +1,365 @@
+{
+  "uid" : "b7ac0b6483eb5119",
+  "name" : "test_running_test",
+  "fullName" : "app_test#test_running_test",
+  "historyId" : "37e2e867df4d816d3f0af45042b7e416",
+  "time" : {
+    "start" : 1670207246921,
+    "stop" : 1670207259693,
+    "duration" : 12772
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_module_fixture_app_test",
+    "time" : {
+      "start" : 1670207225153,
+      "stop" : 1670207246883,
+      "duration" : 21730
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a4f59cd625b53926",
+      "name" : "確認進入SSO登入頁",
+      "source" : "a4f59cd625b53926.png",
+      "type" : "image/png",
+      "size" : 62266
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_module_fixture_app_test::0",
+    "time" : {
+      "start" : 1670207301056,
+      "stop" : 1670207301056,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "suite",
+    "value" : "app_test"
+  }, {
+    "name" : "host",
+    "value" : "C010700042"
+  }, {
+    "name" : "thread",
+    "value" : "26124-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "app_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b852ca6925532595",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670120841890,
+        "stop" : 1670120854388,
+        "duration" : 12498
+      }
+    }, {
+      "uid" : "f6eb4bc11720c140",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670084851220,
+        "stop" : 1670084864231,
+        "duration" : 13011
+      }
+    }, {
+      "uid" : "1f84fcef839b61b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670034442185,
+        "stop" : 1670034454945,
+        "duration" : 12760
+      }
+    }, {
+      "uid" : "2164ed40c1c4c293",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669948044614,
+        "stop" : 1669948057162,
+        "duration" : 12548
+      }
+    }, {
+      "uid" : "9bce878b6d4d7f3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669914386022,
+        "stop" : 1669914398783,
+        "duration" : 12761
+      }
+    }, {
+      "uid" : "e19cb76755cc5711",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861646240,
+        "stop" : 1669861659812,
+        "duration" : 13572
+      }
+    }, {
+      "uid" : "63da701f4d1a829d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780486250,
+        "stop" : 1669780499642,
+        "duration" : 13392
+      }
+    }, {
+      "uid" : "bb680d158c4a7fb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669780368281,
+        "stop" : 1669780381453,
+        "duration" : 13172
+      }
+    }, {
+      "uid" : "7c743721535c02ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669775245656,
+        "stop" : 1669775258539,
+        "duration" : 12883
+      }
+    }, {
+      "uid" : "38fe070e250af926",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713923360,
+        "stop" : 1669713935862,
+        "duration" : 12502
+      }
+    }, {
+      "uid" : "51bfac8d012ae85c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713702295,
+        "stop" : 1669713716298,
+        "duration" : 14003
+      }
+    }, {
+      "uid" : "ddc149aca4c83e70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713638469,
+        "stop" : 1669713651538,
+        "duration" : 13069
+      }
+    }, {
+      "uid" : "a9b3bfb7692baf03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713575153,
+        "stop" : 1669713588139,
+        "duration" : 12986
+      }
+    }, {
+      "uid" : "e24311d7624ab8b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713480847,
+        "stop" : 1669713494708,
+        "duration" : 13861
+      }
+    }, {
+      "uid" : "a28e83c16dd6edad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669713325624,
+        "stop" : 1669713338895,
+        "duration" : 13271
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 16,
+        "unknown" : 0,
+        "total" : 16
+      },
+      "items" : [ {
+        "uid" : "e82df20296eaf78a",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/15/allure/#testresult/e82df20296eaf78a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1670120841890,
+          "stop" : 1670120854388,
+          "duration" : 12498
+        }
+      }, {
+        "uid" : "fc8288b7598ee774",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/14/allure/#testresult/fc8288b7598ee774",
+        "status" : "passed",
+        "time" : {
+          "start" : 1670084851220,
+          "stop" : 1670084864231,
+          "duration" : 13011
+        }
+      }, {
+        "uid" : "62b2493d6ff25e78",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/13/allure/#testresult/62b2493d6ff25e78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1670034442185,
+          "stop" : 1670034454945,
+          "duration" : 12760
+        }
+      }, {
+        "uid" : "d39a39b8d3fe2165",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/12/allure/#testresult/d39a39b8d3fe2165",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669948044614,
+          "stop" : 1669948057162,
+          "duration" : 12548
+        }
+      }, {
+        "uid" : "60206c5014a4d56a",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/11/allure/#testresult/60206c5014a4d56a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669914386022,
+          "stop" : 1669914398783,
+          "duration" : 12761
+        }
+      }, {
+        "uid" : "7bade3b40240f200",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/10/allure/#testresult/7bade3b40240f200",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669861646240,
+          "stop" : 1669861659812,
+          "duration" : 13572
+        }
+      }, {
+        "uid" : "9f28191bfcb16f79",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/9/allure/#testresult/9f28191bfcb16f79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669780486250,
+          "stop" : 1669780499642,
+          "duration" : 13392
+        }
+      }, {
+        "uid" : "e79699796f4a2223",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/8/allure/#testresult/e79699796f4a2223",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669780368281,
+          "stop" : 1669780381453,
+          "duration" : 13172
+        }
+      }, {
+        "uid" : "ebf9e04501937095",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/7/allure/#testresult/ebf9e04501937095",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669775245656,
+          "stop" : 1669775258539,
+          "duration" : 12883
+        }
+      }, {
+        "uid" : "b253cdeff25ff2e4",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/6/allure/#testresult/b253cdeff25ff2e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669713923360,
+          "stop" : 1669713935862,
+          "duration" : 12502
+        }
+      }, {
+        "uid" : "36ca70ba5a46d88e",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/5/allure/#testresult/36ca70ba5a46d88e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669713702295,
+          "stop" : 1669713716298,
+          "duration" : 14003
+        }
+      }, {
+        "uid" : "a8d9cf1aa93b67a3",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/4/allure/#testresult/a8d9cf1aa93b67a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669713638469,
+          "stop" : 1669713651538,
+          "duration" : 13069
+        }
+      }, {
+        "uid" : "2f306f8a98e68b07",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/3/allure/#testresult/2f306f8a98e68b07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669713575153,
+          "stop" : 1669713588139,
+          "duration" : 12986
+        }
+      }, {
+        "uid" : "352069b1c0807bd2",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/2/allure/#testresult/352069b1c0807bd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669713480847,
+          "stop" : 1669713494708,
+          "duration" : 13861
+        }
+      }, {
+        "uid" : "c038085f1651a668",
+        "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/1/allure/#testresult/c038085f1651a668",
+        "status" : "passed",
+        "time" : {
+          "start" : 1669713325624,
+          "stop" : 1669713338895,
+          "duration" : 13271
+        }
+      } ]
+    },
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "b7ac0b6483eb5119.json",
+  "parameterValues" : [ ]
+}

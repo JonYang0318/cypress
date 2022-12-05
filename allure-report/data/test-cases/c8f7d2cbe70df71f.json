@@ -1,0 +1,67 @@
+{
+  "uid" : "c8f7d2cbe70df71f",
+  "name" : "test_input",
+  "fullName" : "app_test#test_input",
+  "historyId" : "412d2786c2983bc5a3ef50d9b07c2d40",
+  "time" : {
+    "start" : 1669775258544,
+    "stop" : 1669775259246,
+    "duration" : 702
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "eaaa509aa88aac2b",
+      "name" : "輸入電話號碼",
+      "source" : "eaaa509aa88aac2b.png",
+      "type" : "image/png",
+      "size" : 45849
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "suite",
+    "value" : "app_test"
+  }, {
+    "name" : "host",
+    "value" : "C010700042"
+  }, {
+    "name" : "thread",
+    "value" : "17744-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "app_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "c8f7d2cbe70df71f.json",
+  "parameterValues" : [ ]
+}

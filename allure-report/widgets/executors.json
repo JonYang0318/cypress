@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "https://b692-60-248-103-165.jp.ngrok.io/",
+  "buildOrder" : 16,
+  "buildName" : "SSO_Mobile_Login #16",
+  "buildUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/16/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "https://b692-60-248-103-165.jp.ngrok.io/job/SSO_Mobile_Login/16/allure"
+} ]

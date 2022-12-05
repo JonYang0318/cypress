@@ -1,0 +1,152 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "app_test",
+    "children" : [ {
+      "name" : "test_set_up_test",
+      "uid" : "76d1cfd7866714f5",
+      "parentUid" : "3d75c56040c9c0bd9f814bc36d87a40d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669861624596,
+        "stop" : 1669861646219,
+        "duration" : 21623
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "更改寬鬆/一般註冊",
+      "uid" : "740c2e4f5bfd549b",
+      "parentUid" : "3d75c56040c9c0bd9f814bc36d87a40d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670207246890,
+        "stop" : 1670207246901,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_running_test",
+      "uid" : "b7ac0b6483eb5119",
+      "parentUid" : "3d75c56040c9c0bd9f814bc36d87a40d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670207246921,
+        "stop" : 1670207259693,
+        "duration" : 12772
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_input",
+      "uid" : "c7cf9fb0a0b56048",
+      "parentUid" : "3d75c56040c9c0bd9f814bc36d87a40d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670207259698,
+        "stop" : 1670207260410,
+        "duration" : 712
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_vertify",
+      "uid" : "2839dd5511566368",
+      "parentUid" : "3d75c56040c9c0bd9f814bc36d87a40d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670207260417,
+        "stop" : 1670207271808,
+        "duration" : 11391
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_messgaeConfirm",
+      "uid" : "206530d1e7605848",
+      "parentUid" : "3d75c56040c9c0bd9f814bc36d87a40d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670207271825,
+        "stop" : 1670207286037,
+        "duration" : 14212
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_prfile",
+      "uid" : "d22f924a9c7ec4dc",
+      "parentUid" : "3d75c56040c9c0bd9f814bc36d87a40d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670207286048,
+        "stop" : 1670207300958,
+        "duration" : 14910
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_deleteMember",
+      "uid" : "ce966ec22b3c0e82",
+      "parentUid" : "3d75c56040c9c0bd9f814bc36d87a40d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670207300966,
+        "stop" : 1670207300981,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_deleteAccount",
+      "uid" : "269e4daad5fa1dd8",
+      "parentUid" : "3d75c56040c9c0bd9f814bc36d87a40d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670207300990,
+        "stop" : 1670207300997,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_deleteProfile",
+      "uid" : "2a025c85b3dcdc4b",
+      "parentUid" : "3d75c56040c9c0bd9f814bc36d87a40d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670207301011,
+        "stop" : 1670207301020,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_deleteETProfile",
+      "uid" : "4c674ffe9b1f391c",
+      "parentUid" : "3d75c56040c9c0bd9f814bc36d87a40d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670207301033,
+        "stop" : 1670207301055,
+        "duration" : 22
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3d75c56040c9c0bd9f814bc36d87a40d"
+  } ]
+}

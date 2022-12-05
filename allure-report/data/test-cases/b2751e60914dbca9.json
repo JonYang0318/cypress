@@ -1,0 +1,51 @@
+{
+  "uid" : "b2751e60914dbca9",
+  "name" : "test_deleteMember",
+  "fullName" : "app_test#test_deleteMember",
+  "historyId" : "504e5dc7612fc2fc6ac9d29090dbdc65",
+  "time" : {
+    "start" : 1669780395220,
+    "stop" : 1669780395286,
+    "duration" : 66
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "DletMember"
+  }, {
+    "name" : "suite",
+    "value" : "app_test"
+  }, {
+    "name" : "host",
+    "value" : "C010700042"
+  }, {
+    "name" : "thread",
+    "value" : "12436-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "app_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b2751e60914dbca9.json",
+  "parameterValues" : [ ]
+}

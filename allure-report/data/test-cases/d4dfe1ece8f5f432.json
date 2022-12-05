@@ -1,0 +1,51 @@
+{
+  "uid" : "d4dfe1ece8f5f432",
+  "name" : "更改寬鬆/一般註冊",
+  "fullName" : "app_test#test_update_setting",
+  "historyId" : "34f084b33a33c821c8ee6be62ba4c312",
+  "time" : {
+    "start" : 1669861624487,
+    "stop" : 1669861624590,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "suite",
+    "value" : "app_test"
+  }, {
+    "name" : "host",
+    "value" : "C010700042"
+  }, {
+    "name" : "thread",
+    "value" : "15208-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "app_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "d4dfe1ece8f5f432.json",
+  "parameterValues" : [ ]
+}
